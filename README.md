@@ -5,6 +5,10 @@
 - `🌱 Projects`: I have some rust projects on my profile like a [markdown blog](https://github.com/San7o/rust-ag-blog) and a [music player](https://github.com/San7o/rust-music-player)
 - `⚡ Other Activities`: I spend most of my free time doing volounteering in two local associations, often collaborating with other institutions and schools
 
+### Goals
+- [ ] Push a nix package on the official repository
+- [ ] Contribute to a FOSS project
+
 ## Languages
 <div>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
