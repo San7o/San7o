@@ -1,29 +1,29 @@
 <h1 align="center">San7o</h1>
 
-# 👋 whoami
+## 👋 whoami
 > Sometimes I'm a photographer, a dancer, an actor, a musician... Most of the time I'm a passionate seftware developer.
-> I enjoy working on little side projects and slowly increase my ambitions, customizing Linux and learn new technologies.
+> I enjoy working on little side projects and slowly increase my ambitions, customizing Linux and learning new technologies.
 > When I dont'program, I volounteer in some local associations, often collaborating with other institutions and schools.
 
-# 📖 Blog
+## 📖 Blog
 > Check out my [personal blog](https://unavitaunviaggio.netlify.app/)! I talk about cool projects I work on and volounteering
 
-# 💻 Setup
+## 💻 Setup
 > I have two laptops, one of those is my "home pc", the other one It's always with me.
 > I'm using NixOS with wayland (Hyprland), check out my [dotfiles](https://github.com/San7o/nixos-dotfiles)!
 
-# 🌱 Projects
+## 🌱 Projects
 
-## Currently working on
+### Currently working on
 > - A management sotware for a computers shop (for university)
 > -  Web application tiwh java servlets (for university)
 
-# 🌟 Goals
+## 🌟 Goals
 
-## Short term Goals
+### Short term Goals
 - [ ] Push a package on the official nixpackages repository
 
-## Long term Goals
+### Long term Goals
 - [ ] Contribute actively to a FOSS project
 - [ ] Own a house in the mountains
 
