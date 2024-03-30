@@ -16,7 +16,7 @@
 
 ### Currently working on
 > - A management sotware for a computers shop (for university)
-> -  Web application tiwh java servlets (for university)
+> -  Web application with java servlets (for university)
 
 ## 🌟 Goals
 
