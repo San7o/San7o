@@ -1,7 +1,7 @@
 <h1 align="center">San7o</h1>
 
 ## 👋 whoami
-> Sometimes I'm a photographer, a dancer, an actor, a musician... Most of the time I'm a passionate seftware developer.
+> Sometimes I'm a photographer, a dancer, an actor, a musician... Most of the time I'm a passionate software developer.
 > I enjoy working on little side projects and slowly increase my ambitions, customizing Linux and learning new technologies.
 > When I dont'program, I volounteer in some local associations, often collaborating with other institutions and schools.
 
