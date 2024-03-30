@@ -1,13 +1,31 @@
-### About Myself
-- `👋 whoami`: I'm a computer science student passionate about linux and customization.
-- `💻 Setup`: I'm using NixOS with Hyprland, check out my [dotfiles](https://github.com/San7o/nixos-dotfiles)!
-- `📝 Blog`: Check out my [personal blog](https://unavitaunviaggio.netlify.app/)! I talk about cool projects I work on and volounteering
-- `🌱 Projects`: I have some rust projects on my profile like a [markdown blog](https://github.com/San7o/rust-ag-blog) and a [music player](https://github.com/San7o/rust-music-player)
-- `⚡ Other Activities`: I spend most of my free time doing volounteering in two local associations, often collaborating with other institutions and schools
+<h1 align="center">San7o</h1>
 
-### Goals
-- [ ] Push a nix package on the official repository
-- [ ] Contribute to a FOSS project
+# 👋 whoami
+> Sometimes I'm a photographer, a dancer, an actor, a musician... Most of the time I'm a passionate seftware developer.
+> I enjoy working on little side projects and slowly increase my ambitions, customizing Linux and learn new technologies.
+> When I dont'program, I volounteer in some local associations, often collaborating with other institutions and schools.
+
+# 📖 Blog
+> Check out my [personal blog](https://unavitaunviaggio.netlify.app/)! I talk about cool projects I work on and volounteering
+
+# 💻 Setup
+> I have two laptops, one of those is my "home pc", the other one It's always with me.
+> I'm using NixOS with wayland (Hyprland), check out my [dotfiles](https://github.com/San7o/nixos-dotfiles)!
+
+# 🌱 Projects
+
+## Currently working on
+> - A management sotware for a computers shop (for university)
+> -  Web application tiwh java servlets (for university)
+
+# 🌟 Goals
+
+## Short term Goals
+- [ ] Push a package on the official nixpackages repository
+
+## Long term Goals
+- [ ] Contribute actively to a FOSS project
+- [ ] Own a house in the mountains
 
 ## Languages
 <div>
