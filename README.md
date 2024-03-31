@@ -1,9 +1,11 @@
 <h1 align="center">San7o</h1>
 
 ## 👋 whoami
-> Sometimes I'm a photographer, a dancer, an actor, a musician... Most of the time I'm a passionate software developer.
-> I enjoy working on little side projects and slowly increase my ambitions, customizing Linux and learning new technologies.
-> When I dont'program, I volounteer in some local associations, often collaborating with other institutions and schools.
+> I'm a programmer with a strong passion for Linux, cybersecurity and systems
+> administration. In my free time I dedicate myself to volunteering in various
+> associations that operate in the area, planning events and
+> social programs with the aim of creating communities of solidarity in
+> the territory.
 
 ## 📖 Blog
 > Check out my [personal blog](https://unavitaunviaggio.netlify.app/)! I talk about cool projects I work on and volounteering
