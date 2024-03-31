@@ -22,6 +22,7 @@
 
 ### Short term Goals
 - [ ] Push a package on the official nixpackages repository
+- [ ] Start an AI project
 
 ### Long term Goals
 - [ ] Contribute actively to a FOSS project
