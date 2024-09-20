@@ -20,6 +20,7 @@ C++ / Linux:
 >- [Baldo scanner](https://github.com/San7o/Baldo-Scanner): antivirus daemon for linux, using a **kernel module**
 >- [regEZ](https://github.com/San7o/regEZ): modern C++ regex engine library (Work in progress)
 >- [gmap](https://github.com/San7o/gmap): GPU accelerated hash map (TODO)
+>- [modern-cpp-template](https://github.com/San7o/modern-cpp-template): a template for c++ libraries
 
 <details>
  <summary>
