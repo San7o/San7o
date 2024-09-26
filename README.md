@@ -30,13 +30,17 @@ C++ / Linux:
 >- [nixos-dotfiles](https://github.com/San7o/nixos-dotfiles): my dev setup
 
 Web:
+>- [fixmi](https://github.com/orgs/IS-FixMi/repositories): business management software using microservices.
+>  [documentation](https://github.com/IS-FixMi/FixMi), 
+>  [root-project](https://github.com/IS-FixMi/fixmi-compose)
 >- [risto89](https://github.com/San7o/risto89-fork): online tickets market in java
 >- [ledger-board](https://github.com/San7o/ledger-board): highly scalable transaction producer/consumer, built with **Kubernetes, Kafka, Django, Angular, Nginx, Redis, Celery, Docker.**
 >- [elixir-blockchain](https://github.com/San7o/elixir-simple-bockchain): a simple blockchain library implemented in **elixir**.
 >- [react-express-template](https://github.com/San7o/react-express-template): a meplate for web applications using node, express, typescript, react, tailwind, docker.
  
 Rust:
->- [rust-lc3](https://github.com/San7o/rust-little-computer-3): implementation of a virtual machine for [LC-3](https://en.wikipedia.org/wiki/Little_Computer_3) 
+>- [rust-lc3](https://github.com/San7o/rust-little-computer-3): implementation of a virtual machine for [LC-3](https://en.wikipedia.org/wiki/Little_Computer_3)
+>- [robotUI](https://github.com/San7o/rust-robotUI): bevy visualizer for Advanced Programming 2023 @Unitn
 >- [rust-pomodoro-timer](https://github.com/San7o/rust-pomodoro)
 >- [rust-music-player](https://github.com/San7o/rust-music-player)
 
