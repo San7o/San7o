@@ -47,6 +47,7 @@ Rust:
 Misc:
 >- [hypr-nerd-gestures](https://github.com/San7o/hypr-nerd-gestures): control hyprland through hand gestures, using **openCV**.
 >- [launchpad-app-launcher](https://github.com/San7o/launchpad-app-launcher): launch commands from a novation's launchpad
+>- [modern-python-template](https://github.com/San7o/modern-python-template)
 >- [youtube-minuature-generator](https://github.com/San7o/youtube-miniature-generator)
 
 </details>
