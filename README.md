@@ -16,10 +16,10 @@ C++23 Graphics Engine:
 >- [valfuzz](https://github.com/San7o/valFuzz): modern testing and fuzzing library
 >- [viotecs](https://github.com/San7o/viotecs): the engine's ECS
 
-C++ / Linux:
+C++ / Linux / Security:
 >- [Baldo scanner](https://github.com/San7o/Baldo-Scanner): antivirus daemon for linux, using a **kernel module**
 >- [tenno-tl](https://github.com/San7o/tenno-tl): secure and thread safe c++23 STL alternative
->- [gmap](https://github.com/San7o/gmap): GPU accelerated hash map (TODO)
+>- [ssap](https://github.com/San7o/ssap): secure local password encryption manager in **Rust**
 >- [modern-cpp-template](https://github.com/San7o/modern-cpp-template): a template for c++ libraries
 
 <details>
