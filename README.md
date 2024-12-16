@@ -39,19 +39,23 @@ I write lots of libraries
 >- [rust-music-player](https://github.com/San7o/rust-music-player)
 
 ### Misc:
->- [regEZ](https://github.com/San7o/regEZ): fully constexpr regex matcher implementation in modern C++
+>- [regEZ](https://github.com/San7o/regEZ): fully constexpr regex implementation in modern C++
 >- [modern-cpp-template](https://github.com/San7o/modern-cpp-template): a template for c++ libraries
+>- [mpi-hpp](https://github.com/San7o/mpi-hpp): c++ bindings for openMPI
+>- [how-to-root-samsung-galaxy-j5](https://github.com/San7o/how-to-root-samsung-galaxy-j5): instructions to root a Samsung Galaxy J5
+>- [hpc-playground](https://github.com/San7o/hpc-playground): lab for HPC experiments
 >- [hypr-nerd-gestures](https://github.com/San7o/hypr-nerd-gestures): control hyprland through hand gestures, using **openCV**.
 >- [launchpad-app-launcher](https://github.com/San7o/launchpad-app-launcher): launch commands from a novation's launchpad
 >- [modern-python-template](https://github.com/San7o/modern-python-template)
+>- [linux-kernel-module](https://github.com/San7o/linux-kernel-module): hello world kernel module with a full developement setup using qemu
 >- [youtube-minuature-generator](https://github.com/San7o/youtube-miniature-generator)
 
 ### Setup:
 >- [lfs](https://github.com/San7o/lfs): my Linux From Scratch distribution
 >- [mapkg](https://github.com/San7o/mapkg): my own packet manager
->- [nixos-dotfiles](https://github.com/San7o/nixos-dotfiles): my dev setup
+>- [nixos-dotfiles](https://github.com/San7o/nixos-dotfiles): my (outdated) nixos setup
 >- [obsidian-chill-theme](https://github.com/San7o/obsidian-chill-theme): my custom obsidian theme
->- [obsidian-advanced-slided-theme](https://github.com/San7o/obsidian-advanced-slides-theme-chill): custom theme for advanced slides
+>- [obsidian-advanced-slided-theme](https://github.com/San7o/obsidian-advanced-slides-theme-chill): custom theme for obsidian advanced slides
 
 </details>
 
