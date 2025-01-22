@@ -12,9 +12,11 @@ I write lots of libraries
 >- [viotecs](https://github.com/San7o/viotecs): the engine's ECS
 
 ### Highlights:
->- [chttps](https://github.com/San7o/chttps): https server in C with server-side rendering
+>- [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386
 >- [Baldo scanner](https://github.com/San7o/Baldo-Scanner): antivirus daemon for linux using a **kernel module**
 >- [tenno-tl](https://github.com/San7o/tenno-tl): secure and thread safe c++26 STL alternative
+>- [broutines](https://github.com/San7o/broutines): goroutines and coroutines implemented in C
+>- [chttps](https://github.com/San7o/chttps): https server in C with server-side rendering
 
 <details>
  <summary>
