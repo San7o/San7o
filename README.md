@@ -17,6 +17,7 @@ I write lots of libraries
 >- [tenno-tl](https://github.com/San7o/tenno-tl): secure and thread safe c++26 STL alternative
 >- [broutines](https://github.com/San7o/broutines): goroutines and coroutines implemented in C
 >- [chttps](https://github.com/San7o/chttps): https server in C with server-side rendering
+>- [cchecker](https://github.com/San7o/cchecker): borrow checker in C++
 
 <details>
  <summary>
