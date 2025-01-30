@@ -18,6 +18,7 @@ I write lots of libraries
 >- [broutines](https://github.com/San7o/broutines): goroutines and coroutines implemented in C
 >- [chttps](https://github.com/San7o/chttps): https server in C with server-side rendering
 >- [cchecker](https://github.com/San7o/cchecker): borrow checker in C++
+>- [go-ebpf](https://github.com/San7o/go-ebpf): example usage of eBPF in go
 
 <details>
  <summary>
