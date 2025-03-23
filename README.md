@@ -1,10 +1,14 @@
-<h1 align="center">San7o</h1>
+<h1 align="center">Giovanni Santini</h1>
 
-```
-I write lots of libraries
-```
+Hello fellow traveler, nice to meet you. https://giovanni-diary.netlify.app/
 
-## 🛠️ My Projects
+<details>
+ <summary>
+      Projects
+ </summary>
+ 
+
+## My Projects
 ### C++23 Graphics Engine:
 >- [Brenta Engine](https://github.com/San7o/Brenta-Engine): the engine's main repo
 >- [valfuzz](https://github.com/San7o/valFuzz): modern testing and fuzzing library
@@ -20,11 +24,6 @@ I write lots of libraries
 >- [cchecker](https://github.com/San7o/cchecker): borrow checker in C++
 >- [go-ebpf](https://github.com/San7o/go-ebpf): example usage of eBPF in go
 
-<details>
- <summary>
-      Web / Other
- </summary>
- 
 ### Web:
 >- [fixmi](https://github.com/orgs/IS-FixMi/repositories): business management software using microservices.
 >  [documentation](https://github.com/IS-FixMi/FixMi), 
