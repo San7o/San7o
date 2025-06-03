@@ -1,21 +1,28 @@
 <h1 align="center">Giovanni Santini</h1>
 
-Hello fellow traveler, nice to meet you. https://giovanni-diary.netlify.app/
+Hi,
+
+I am Giovanni, welcome to by github page. I am a computer science
+student from Italy focusing on **operating systems**, Linux
+**system administration**, **cloud computing** and **security**.
+
+I have a **blog**, more like a diary, where I write down my thoughts.
+Check It out:
+
+[https://giovanni-diary.netlify.app/](https://giovanni-diary.netlify.app/)
 
 <details>
  <summary>
-      Projects
+      Click to view a list of my projects
  </summary>
  
-
-## My Projects
-### C++23 Graphics Engine:
+## C++23 Graphics Engine:
 - [Brenta Engine](https://github.com/San7o/Brenta-Engine): the engine's main repo
 - [valfuzz](https://github.com/San7o/valFuzz): modern testing and fuzzing library
 - [oak](https://github.com/San7o/oak): a feature-rich thread-safe C++23 logger library
 - [viotecs](https://github.com/San7o/viotecs): the engine's ECS
 
-### Highlights:
+## Highlights:
 - [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386
 - [Baldo scanner](https://github.com/San7o/Baldo-Scanner): antivirus daemon for linux using a **kernel module**
 - [tenno-tl](https://github.com/San7o/tenno-tl): secure and thread safe c++26 STL alternative
@@ -24,7 +31,7 @@ Hello fellow traveler, nice to meet you. https://giovanni-diary.netlify.app/
 - [cchecker](https://github.com/San7o/cchecker): borrow checker in C++
 - [go-ebpf](https://github.com/San7o/go-ebpf): example usage of eBPF in go
 
-### Web:
+## Web:
 - [fixmi](https://github.com/orgs/IS-FixMi/repositories): business management software using microservices.
   -  [documentation](https://github.com/IS-FixMi/FixMi)
   -  [root-project](https://github.com/IS-FixMi/fixmi-compose)
@@ -34,7 +41,7 @@ Hello fellow traveler, nice to meet you. https://giovanni-diary.netlify.app/
 - [elixir-blockchain](https://github.com/San7o/elixir-simple-bockchain): a simple blockchain library implemented in **elixir**.
 - [react-express-template](https://github.com/San7o/react-express-template): a meplate for web applications using node, express, typescript, react, tailwind, docker.
  
-### Rust:
+## Rust:
 - [ssap](https://github.com/San7o/ssap): local password encryption manager in **Rust**
 - [rust-lc3](https://github.com/San7o/rust-little-computer-3): implementation of a virtual machine for [LC-3](https://en.wikipedia.org/wiki/Little_Computer_3)
 - [robotUI](https://github.com/San7o/rust-robotUI): bevy visualizer for Advanced Programming 2023 @Unitn
@@ -48,7 +55,7 @@ Hello fellow traveler, nice to meet you. https://giovanni-diary.netlify.app/
 - [perceptron.c](https://gist.github.com/San7o/da2efc84eb3e7c8bdbefbd540c8cfbea): Implementation of a perceptron for binary
   classification in C.
 
-### Misc:
+## Misc:
 - [regEZ](https://github.com/San7o/regEZ): fully constexpr regex implementation in modern C++
 - [modern-cpp-template](https://github.com/San7o/modern-cpp-template): a template for c++ libraries
 - [mpi-hpp](https://github.com/San7o/mpi-hpp): c++ bindings for openMPI
@@ -60,7 +67,7 @@ Hello fellow traveler, nice to meet you. https://giovanni-diary.netlify.app/
 - [linux-kernel-module](https://github.com/San7o/linux-kernel-module): hello world kernel module with a full developement setup using qemu
 - [youtube-minuature-generator](https://github.com/San7o/youtube-miniature-generator)
 
-### Setup:
+## Setup:
 - [lfs](https://github.com/San7o/lfs): my Linux From Scratch distribution
 - [mapkg](https://github.com/San7o/mapkg): my own packet manager
 - [nixos-dotfiles](https://github.com/San7o/nixos-dotfiles): my (outdated) nixos setup
