@@ -11,6 +11,12 @@ Check It out:
 
 [https://giovanni-diary.netlify.app/](https://giovanni-diary.netlify.app/)
 
+Get in contact with me:
+
+- preferably via email at [giovanni.santini@proton.me](mailto:giovanni.santini@proton.me),
+- on mastodon [@santo7@mastodon.social](https://mastodon.social/@santo7).
+- on IRC, I go by "santo_".
+
 <details>
  <summary>
       Click to view a list of my projects
