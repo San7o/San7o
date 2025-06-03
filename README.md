@@ -2,7 +2,7 @@
 
 Hi,
 
-I am Giovanni, welcome to by github page. I am a computer science
+I am Giovanni, welcome to my github page. I am a computer science
 student from Italy focusing on **operating systems**, Linux
 **system administration**, **cloud computing** and **security**.
 
