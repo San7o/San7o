@@ -54,7 +54,6 @@ Get in contact with me:
 - [rust-pomodoro-timer](https://github.com/San7o/rust-pomodoro)
 - [rust-music-player](https://github.com/San7o/rust-music-player)
 
-
 ## Gists
 - [knn.c](https://gist.github.com/San7o/4bfe69a9e1eb251d5267d8b74ff73dda): Implementation of KNN for supervised learning classification
   on a one-dimensional dataset in C.
@@ -62,6 +61,8 @@ Get in contact with me:
   classification in C.
 
 ## Misc:
+- [tiny-rss](https://github.com/San7o/tiny-rss.git): RSS feeds generator for org mode
+- [musync](https://github.com/San7o/musync.el.git): download music declaratively
 - [regEZ](https://github.com/San7o/regEZ): fully constexpr regex implementation in modern C++
 - [modern-cpp-template](https://github.com/San7o/modern-cpp-template): a template for c++ libraries
 - [mpi-hpp](https://github.com/San7o/mpi-hpp): c++ bindings for openMPI
@@ -74,6 +75,8 @@ Get in contact with me:
 - [youtube-minuature-generator](https://github.com/San7o/youtube-miniature-generator)
 
 ## Setup:
+- [.emacs.d](https://github.com/San7o/.emacs.d.git): my emacs configuration
+- [dwm](https://github.com/San7o/dwm.git): my fork of DWM
 - [lfs](https://github.com/San7o/lfs): my Linux From Scratch distribution
 - [mapkg](https://github.com/San7o/mapkg): my own packet manager
 - [nixos-dotfiles](https://github.com/San7o/nixos-dotfiles): my (outdated) nixos setup
