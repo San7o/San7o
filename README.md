@@ -29,13 +29,14 @@ Get in contact with me:
 - [viotecs](https://github.com/San7o/viotecs): the engine's ECS
 
 ## Highlights:
-- [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386
 - [Baldo scanner](https://github.com/San7o/Baldo-Scanner): antivirus daemon for linux using a **kernel module**
 - [tenno-tl](https://github.com/San7o/tenno-tl): secure and thread safe c++26 STL alternative
-- [broutines](https://github.com/San7o/broutines): goroutines and coroutines implemented in C
-- [chttps](https://github.com/San7o/chttps): https server in C with server-side rendering
-- [cchecker](https://github.com/San7o/cchecker): borrow checker in C++
+- [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386
 - [go-ebpf](https://github.com/San7o/go-ebpf): example usage of eBPF in go
+
+## Lisp
+- [tiny-rss](https://github.com/San7o/tiny-rss.git): RSS feeds generator for org mode
+- [musync](https://github.com/San7o/musync.el.git): download music declaratively
 
 ## Web:
 - [fixmi](https://github.com/orgs/IS-FixMi/repositories): business management software using microservices.
@@ -60,14 +61,14 @@ Get in contact with me:
 - [perceptron.c](https://gist.github.com/San7o/da2efc84eb3e7c8bdbefbd540c8cfbea): Implementation of a perceptron for binary
   classification in C.
 
-## Misc:
-- [tiny-rss](https://github.com/San7o/tiny-rss.git): RSS feeds generator for org mode
-- [musync](https://github.com/San7o/musync.el.git): download music declaratively
-- [regEZ](https://github.com/San7o/regEZ): fully constexpr regex implementation in modern C++
+## Misc / Old:
+- [Introduction-to-machine-learning](https://github.com/San7o/Introduction-to-machine-learning): useful notes for students studying for an introductionary course to Machine Learning, or to anyone interested in the subject.
 - [modern-cpp-template](https://github.com/San7o/modern-cpp-template): a template for c++ libraries
-- [mpi-hpp](https://github.com/San7o/mpi-hpp): c++ bindings for openMPI
+- [broutines](https://github.com/San7o/broutines): goroutines and coroutines implemented in C
+- [chttps](https://github.com/San7o/chttps): https server in C with server-side rendering
+- [cchecker](https://github.com/San7o/cchecker): borrow checker in C++
+- [regEZ](https://github.com/San7o/regEZ): fully constexpr regex implementation in modern C++
 - [how-to-root-samsung-galaxy-j5](https://github.com/San7o/how-to-root-samsung-galaxy-j5): instructions to root a Samsung Galaxy J5
-- [hpc-playground](https://github.com/San7o/hpc-playground): lab for HPC experiments
 - [hypr-nerd-gestures](https://github.com/San7o/hypr-nerd-gestures): control hyprland through hand gestures, using **openCV**.
 - [launchpad-app-launcher](https://github.com/San7o/launchpad-app-launcher): launch commands from a novation's launchpad
 - [modern-python-template](https://github.com/San7o/modern-python-template)
