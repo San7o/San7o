@@ -29,12 +29,14 @@ Get in contact with me:
 - [viotecs](https://github.com/San7o/viotecs): the engine's ECS
 
 ## Highlights:
-- [Baldo scanner](https://github.com/San7o/Baldo-Scanner): antivirus daemon for linux using a **kernel module**
+- [kivebpf](https://github.com/San7o/kivebpf): eBPF-powered file access monitoring Kubernetes operator
+- [Baldo scanner](https://github.com/San7o/Baldo-Scanner): antivirus daemon for linux using a kernel module
 - [tenno-tl](https://github.com/San7o/tenno-tl): secure and thread safe c++26 STL alternative
 - [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386
 - [go-ebpf](https://github.com/San7o/go-ebpf): example usage of eBPF in go
 
 ## Lisp
+- [haplolang](https://github.com/San7o/haplolang): a Lisp-like, s-expression based, imperative, strongly typed programming language
 - [tiny-rss](https://github.com/San7o/tiny-rss.git): RSS feeds generator for org mode
 - [musync](https://github.com/San7o/musync.el.git): download music declaratively
 
@@ -64,6 +66,7 @@ Get in contact with me:
 ## Misc / Old:
 - [Introduction-to-machine-learning](https://github.com/San7o/Introduction-to-machine-learning): useful notes for students studying for an introductionary course to Machine Learning, or to anyone interested in the subject.
 - [modern-cpp-template](https://github.com/San7o/modern-cpp-template): a template for c++ libraries
+- [parallel-computing-cpp](https://github.com/San7o/parallel-computing-cpp): MPI and OpenMP algorithms and benchmarks
 - [broutines](https://github.com/San7o/broutines): goroutines and coroutines implemented in C
 - [chttps](https://github.com/San7o/chttps): https server in C with server-side rendering
 - [cchecker](https://github.com/San7o/cchecker): borrow checker in C++
@@ -74,8 +77,10 @@ Get in contact with me:
 - [modern-python-template](https://github.com/San7o/modern-python-template)
 - [linux-kernel-module](https://github.com/San7o/linux-kernel-module): hello world kernel module with a full developement setup using qemu
 - [youtube-minuature-generator](https://github.com/San7o/youtube-miniature-generator)
+- many more...
 
 ## Setup:
+- [lkde-tool](https://github.com/San7o/lkde-tool): Linux Kernel Development Environment: the right tool for the day-to-day hacker. 
 - [.emacs.d](https://github.com/San7o/.emacs.d.git): my emacs configuration
 - [dwm](https://github.com/San7o/dwm.git): my fork of DWM
 - [lfs](https://github.com/San7o/lfs): my Linux From Scratch distribution
