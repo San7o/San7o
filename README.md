@@ -2,8 +2,8 @@
 
 Hi,
 
-I am Giovanni, welcome to my github page. I am a computer science
-student from Italy focusing on **operating systems**, Linux
+I am Giovanni, welcome to my github page. I am a [computer science
+student](https://giovanni-diary.netlify.app/programming/programming) from Italy focusing on **operating systems**, [Linux](https://giovanni-diary.netlify.app/programming/linux/linux)
 **system administration**, **cloud computing** and **security**.
 
 I have a **blog**, more like a diary, where I write down my thoughts.
