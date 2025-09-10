@@ -2,9 +2,9 @@
 
 Hi,
 
-I am Giovanni, welcome to my github page. I am a [computer science
-student](https://giovanni-diary.netlify.app/programming/programming) from Italy focusing on **operating systems**, [Linux](https://giovanni-diary.netlify.app/programming/linux/linux)
-**system administration**, **cloud computing** and **security**.
+I am Giovanni, welcome to my github page. I am an Italian [computer science
+student](https://giovanni-diary.netlify.app/programming/programming) and a [recreational programmer](https://giovanni-diary.netlify.app/programming/notes/recreational-programming) fellow focusing on operating systems, [Linux](https://giovanni-diary.netlify.app/programming/linux/linux)
+system administration, cloud applications and security. [[CV](https://giovanni-diary.netlify.app/programming/cv)]
 
 I have a **blog**, more like a diary, where I write down my thoughts.
 Check It out:
