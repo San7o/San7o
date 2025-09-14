@@ -31,7 +31,7 @@ Get in contact with me:
 
 ## Highlights:
 - [kivebpf](https://github.com/San7o/kivebpf): eBPF-powered file access monitoring Kubernetes operator
-  - [The Kibebpf website](https://github.com/San7o/kivebpf): more documentation about the operator
+  - [The Kibebpf website](https://san7o.github.io/kivebpf/): more documentation about the operator
 - [Baldo scanner](https://github.com/San7o/Baldo-Scanner): antivirus daemon for linux using a kernel module
 - [tenno-tl](https://github.com/San7o/tenno-tl): secure and thread safe c++26 STL alternative
 - [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386
