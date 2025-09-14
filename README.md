@@ -68,7 +68,7 @@ Get in contact with me:
   classification in C.
 - [mmap_file.c](https://gist.github.com/San7o/1c88efae81f499e5882d0f63104a228e): Read a file's contents using mmap, faster than read(2). Neat optimization on POSIX systems. 
 - [djb2.c](https://gist.github.com/San7o/e41c79a609aaf3385f133d309ec39922):  Simple hash function for strings.
-- [lcg.c](https://gist.github.com/San7o/f979a38a4746990da527041d62da2d71): LCG algorithm to generate pseudo numbers.
+- [lcg.c](https://gist.github.com/San7o/f979a38a4746990da527041d62da2d71): Fast LCG pseudo number generator algorithm.
 
 ## Misc / Old:
 - [Introduction-to-machine-learning](https://github.com/San7o/Introduction-to-machine-learning): useful notes for students studying for an introductionary course to Machine Learning, or to anyone interested in the subject.
