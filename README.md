@@ -33,7 +33,8 @@ Get in contact with me:
   - [The Kibebpf website](https://san7o.github.io/kivebpf/): more documentation about the operator
 - [Baldo scanner](https://github.com/San7o/Baldo-Scanner): antivirus daemon for linux using a kernel module
 - [tenno-tl](https://github.com/San7o/tenno-tl): secure and thread safe c++26 STL alternative
-- [bloom-filter.h](https://github.com/San7o/bloom-filter.h): A configurable, header-only implementation of bloom filters in C99 with no dependencies. 
+- [bloom-filter.h](https://github.com/San7o/bloom-filter.h): A configurable, header-only implementation of bloom filters in C99 with no dependencies.
+- [hll.h](https://github.com/San7o/hll.h): Configurable, header-only implementation of HyperLogLog in C99. 
 - [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386
 - [go-ebpf](https://github.com/San7o/go-ebpf): example eBPF program in go
 
