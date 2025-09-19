@@ -36,6 +36,7 @@ A collection of high-quality, configurable, header-only libraries written in C99
 - [hll.h](https://github.com/San7o/hll.h): Configurable, header-only implementation of HyperLogLog. 
 - [bloom-filter.h](https://github.com/San7o/bloom-filter.h): A configurable, header-only implementation of bloom filters with no dependencies.
 - [micro-tests.h](https://github.com/San7o/micro-tests.h): Lightweight, header-only testing framework, with multithread support and run-time settings.
+- [micro-hash.h](https://github.com/San7o/micro-hash.h): Quick and dirty hash functions in C99, with some benchmarks.
 
 ## Highlights:
 Some other interesting projects that you should check out.
