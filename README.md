@@ -30,13 +30,15 @@ A batteries included and highly documented 3D renderer and game engine written i
 - [oak](https://github.com/San7o/oak): a feature-rich thread-safe C++23 logger library. [website](https://san7o.github.io/brenta-engine-documentation/oak/v1.0/)
 - [viotecs](https://github.com/San7o/viotecs): the engine's ECS. [website](https://san7o.github.io/brenta-engine-documentation/viotecs/v1.0/)
 
-## micro-headers
+## [micro-headers](https://github.com/San7o/micro-headers)
 A collection of high-quality, configurable, header-only libraries written in C99. The libraries are designed to be highly reusable, simple to maintain with little to no dependencies, and easy to integrate in your projects.
 
 - [hll.h](https://github.com/San7o/hll.h): Configurable, header-only implementation of HyperLogLog. 
 - [bloom-filter.h](https://github.com/San7o/bloom-filter.h): A configurable, header-only implementation of bloom filters with no dependencies.
 - [micro-tests.h](https://github.com/San7o/micro-tests.h): Lightweight, header-only testing framework, with multithread support and run-time settings.
 - [micro-hash.h](https://github.com/San7o/micro-hash.h): Quick and dirty hash functions in C99, with some benchmarks.
+- [hashmap.h](https://github.com/San7o/hashmap.h): implementation of an hashmap for any type
+- [hashset.h](https://github.com/San7o/hashset.h): implementation of an hashset for any type
 
 ## Highlights:
 Some other interesting projects that you should check out.
