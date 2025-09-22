@@ -105,7 +105,8 @@ Code extracted from my other projects that can be easily reused, or implementati
 - [mmap_file.c](https://gist.github.com/San7o/1c88efae81f499e5882d0f63104a228e): Read a file's contents using mmap, faster than read(2). Neat optimization on POSIX systems. 
 - [djb2.c](https://gist.github.com/San7o/e41c79a609aaf3385f133d309ec39922):  Simple hash function for strings.
 - [lcg.c](https://gist.github.com/San7o/f979a38a4746990da527041d62da2d71): LCG algorithm for fast pseudo random number generation.
-
+- [unix_server.c](https://gist.github.com/San7o/4a2cfa08783ab55c10f7af5c93401e28): Create an unix socket server that reads data sent to it
+- [inet_server.c](https://gist.github.com/San7o/4af3f058cd1508f9779a310aef75b9c6): Create an inet server that reads data sent to it
 
 ### Setup:
 Custom configurations for my daily development setup and workflow.
