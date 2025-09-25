@@ -42,6 +42,7 @@ A collection of high-quality, configurable, header-only libraries written in C99
 - [bloom-filter.h](https://github.com/San7o/bloom-filter.h): A configurable, header-only implementation of bloom filters with no dependencies.
 - [hashmap.h](https://github.com/San7o/hashmap.h): implementation of an hashmap for any type
 - [hashset.h](https://github.com/San7o/hashset.h): implementation of an hashset for any type
+- [game-of-life.h](https://github.com/San7o/game-of-life.h/): Conway's Game of Life logic implementation
 
 ## Highlights:
 Some other interesting projects that you should check out.
