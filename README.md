@@ -35,6 +35,7 @@ A collection of high-quality, configurable, header-only libraries written in C99
 
 - [micro-tests.h](https://github.com/San7o/micro-tests.h): lightweight, header-only testing framework, with multithread support and run-time settings.
 - [micro-log.h](https://github.com/San7o/micro-log.h): configurable, thread safe logging framework in C99. With lots of features.
+- [micro-bench.h](https://github.com/San7o/micro-bench.h): micro benchmarking library
 - [micro-flag.h](https://github.com/San7o/micro-flag.h/): tiny library to parse command line arguments.
 - [micro-hash.h](https://github.com/San7o/micro-hash.h): quick and dirty hash functions in C99, with some benchmarks.
 - [micro-draw.h](https://github.com/San7o/micro-draw.h): a software renderer
