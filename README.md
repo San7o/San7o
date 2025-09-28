@@ -38,8 +38,9 @@ A collection of high-quality, configurable, header-only libraries written in C99
 - [micro-flag.h](https://github.com/San7o/micro-flag.h/): tiny library to parse command line arguments.
 - [micro-hash.h](https://github.com/San7o/micro-hash.h): quick and dirty hash functions in C99, with some benchmarks.
 - [micro-draw.h](https://github.com/San7o/micro-draw.h): a software renderer
-- [hll.h](https://github.com/San7o/hll.h): configurable, header-only implementation of HyperLogLog. 
-- [bloom-filter.h](https://github.com/San7o/bloom-filter.h): A configurable, header-only implementation of bloom filters with no dependencies.
+- [hll.h](https://github.com/San7o/hll.h): configurable, header-only implementation of HyperLogLog, used for approximating the cardinality of large multisets.
+- [bloom-filter.h](https://github.com/San7o/bloom-filter.h): A configurable, header-only implementation of bloom filters, a space-efficient probabilistic data structure that is used to test whether an element is a member of a set. 
+- [consistent-hasher.h](https://github.com/San7o/consistent-hasher.h): implementation of consistent hashing, useful for distributing keys across a dynamic set of nodes.
 - [hashmap.h](https://github.com/San7o/hashmap.h): implementation of an hashmap for any type
 - [hashset.h](https://github.com/San7o/hashset.h): implementation of an hashset for any type
 - [game-of-life.h](https://github.com/San7o/game-of-life.h/): Conway's Game of Life logic implementation
