@@ -112,9 +112,8 @@ Code extracted from my other projects that can be easily reused, or implementati
 
 - [unix_server.c](https://gist.github.com/San7o/4a2cfa08783ab55c10f7af5c93401e28): Create an unix socket server that reads data sent to it
 - [inet_server.c](https://gist.github.com/San7o/4af3f058cd1508f9779a310aef75b9c6): Create an inet server that reads data sent to it
-- [clear_screen.c](https://gist.github.com/San7o/0a7ab7492e521cb5decd0e4eac18b276):  Clear the terminal screen using ANSI control sequences.
+- [set_signals.c](https://gist.github.com/San7o/c933925bc8bc8beb493bc618c90e1cbf): Setup an handler for various POSIX signals.
 - [sdl_window.c](https://gist.github.com/San7o/b80ee8e26fecda3bfaa113b12be470c5): Create an SDL3 window and poll events.
-- [delta_time.c](https://gist.github.com/San7o/51807bdc9266241c76f15ac4247167db): Calculate the frame delta time and render a certain number of times per seconds in C99.
 - [knn.c](https://gist.github.com/San7o/4bfe69a9e1eb251d5267d8b74ff73dda): Implementation of KNN for supervised learning classification
   on a one-dimensional dataset in C.
 - [perceptron.c](https://gist.github.com/San7o/da2efc84eb3e7c8bdbefbd540c8cfbea): Implementation of a perceptron for binary
@@ -123,12 +122,13 @@ Code extracted from my other projects that can be easily reused, or implementati
 - [djb2.c](https://gist.github.com/San7o/e41c79a609aaf3385f133d309ec39922):  Simple hash function for strings.
 - [lcg.c](https://gist.github.com/San7o/f979a38a4746990da527041d62da2d71): LCG algorithm for fast pseudo random number generation.
 - [mandelbrot.c](https://gist.github.com/San7o/2eea69c31a9f631253d2b9c72d9fe34a): Get the number of iterations of a point in the Mandelbrot set.
-- [left_space.c](https://gist.github.com/San7o/b1161f85888bc09a995e1fb3f54f52da): Get number of separator charactes from the left of a string in C99. 
+- [left_space.c](https://gist.github.com/San7o/b1161f85888bc09a995e1fb3f54f52da): Get number of separator charactes from the left of a string in C99.
+- [clear_screen.c](https://gist.github.com/San7o/0a7ab7492e521cb5decd0e4eac18b276):  Clear the terminal screen using ANSI control sequences.
+- [delta_time.c](https://gist.github.com/San7o/51807bdc9266241c76f15ac4247167db): Calculate the frame delta time and render a certain number of times per seconds in C99.
 
 ### Setup:
 Custom configurations for my daily development setup and workflow.
 
-- [lkde-tool](https://github.com/San7o/lkde-tool): Linux Kernel Development Environment: the right tool for the day-to-day hacker. 
 - [.emacs.d](https://github.com/San7o/.emacs.d.git): my emacs configuration
 - [dwm](https://github.com/San7o/dwm.git): my fork of DWM
 - [lfs](https://github.com/San7o/lfs): my Linux From Scratch distribution
