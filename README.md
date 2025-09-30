@@ -46,6 +46,13 @@ A collection of high-quality, configurable, header-only libraries written in C99
 - [hashset.h](https://github.com/San7o/hashset.h): implementation of an hashset for any type
 - [game-of-life.h](https://github.com/San7o/game-of-life.h/): Conway's Game of Life logic implementation
 
+## New: [micro-tools](https://github.com/San7o/micro-tools)
+A collection of useful tools for programmers to solve programmer problems. Mostly written in C99.
+
+- [micro-templating.c](https://github.com/San7o/micro-templating.c/): A simple tool to generate a file from a template, in ~200 lines of code.  
+- [micro-timerd](https://github.com/San7o/micro-timerd/): Client-server application to start, stop and list timers.   
+- [lkde-tool](https://github.com/San7o/lkde-tool): An useful tool to develop and test kernel patches and applications in multiple kernel branches, trees, architectures and configurations.
+
 ## Highlights:
 Some other interesting projects that you should check out.
 
