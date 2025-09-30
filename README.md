@@ -21,7 +21,7 @@ Get in contact with me:
       Click to view a list of my projects
  </summary>
  
-## C++23 Graphics Engine:
+## 3D Game Engine
 A batteries included and highly documented 3D renderer and game engine written in modern C++, with a custom ECS framework.
 
 - [Brenta Engine](https://github.com/San7o/Brenta-Engine): the engine's main repo
@@ -46,14 +46,14 @@ A collection of high-quality, configurable, header-only libraries written in C99
 - [hashset.h](https://github.com/San7o/hashset.h): implementation of an hashset for any type
 - [game-of-life.h](https://github.com/San7o/game-of-life.h/): Conway's Game of Life logic implementation
 
-## New: [micro-tools](https://github.com/San7o/micro-tools)
+## (New) [micro-tools](https://github.com/San7o/micro-tools)
 A collection of useful tools for programmers to solve programmer problems. Mostly written in C99.
 
 - [micro-templating.c](https://github.com/San7o/micro-templating.c/): A simple tool to generate a file from a template, in ~200 lines of code.  
 - [micro-timerd](https://github.com/San7o/micro-timerd/): Client-server application to start, stop and list timers.   
 - [lkde-tool](https://github.com/San7o/lkde-tool): An useful tool to develop and test kernel patches and applications in multiple kernel branches, trees, architectures and configurations.
 
-## Highlights:
+## Highlights
 Some other interesting projects that you should check out.
 
 - [kivebpf](https://github.com/San7o/kivebpf): eBPF-powered file access monitoring Kubernetes operator
@@ -70,7 +70,7 @@ Lisp is a nice language, I have written a Lisp interpreter and some emacs packag
 - [tiny-rss](https://github.com/San7o/tiny-rss.git): RSS feeds generator for org mode
 - [musync](https://github.com/San7o/musync.el.git): download music declaratively
 
-## Web:
+## Web
 Several web backend projects.
 
 - [fixmi](https://github.com/orgs/IS-FixMi/repositories): business management software using microservices.
@@ -82,7 +82,7 @@ Several web backend projects.
 - [react-express-template](https://github.com/San7o/react-express-template): a meplate for web applications using node, express, typescript, react, tailwind, docker.
 - [webgl-markdown-portfolio](https://github.com/San7o/webgl-markdown-portfolio): a 3D renderer in WebGL and Angular
 
-## Misc / Old:
+## Misc / Old
 Backlog of projects.
 
 - [Introduction-to-machine-learning](https://github.com/San7o/Introduction-to-machine-learning): useful notes for students studying for an introductionary course to Machine Learning, or to anyone interested in the subject.
@@ -126,7 +126,7 @@ Code extracted from my other projects that can be easily reused, or implementati
 - [clear_screen.c](https://gist.github.com/San7o/0a7ab7492e521cb5decd0e4eac18b276):  Clear the terminal screen using ANSI control sequences.
 - [delta_time.c](https://gist.github.com/San7o/51807bdc9266241c76f15ac4247167db): Calculate the frame delta time and render a certain number of times per seconds in C99.
 
-### Setup:
+### Setup
 Custom configurations for my daily development setup and workflow.
 
 - [.emacs.d](https://github.com/San7o/.emacs.d.git): my emacs configuration
