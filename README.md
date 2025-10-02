@@ -125,6 +125,7 @@ Code extracted from my other projects that can be easily reused, or implementati
 - [left_space.c](https://gist.github.com/San7o/b1161f85888bc09a995e1fb3f54f52da): Get number of separator charactes from the left of a string in C99.
 - [clear_screen.c](https://gist.github.com/San7o/0a7ab7492e521cb5decd0e4eac18b276):  Clear the terminal screen using ANSI control sequences.
 - [delta_time.c](https://gist.github.com/San7o/51807bdc9266241c76f15ac4247167db): Calculate the frame delta time and render a certain number of times per seconds in C99.
+- [Makefile](https://gist.github.com/San7o/630a4c8a42ae5b914a4fe41b4f19e374): Simple Makefile template for C projects.
 
 ### Setup
 Custom configurations for my daily development setup and workflow.
