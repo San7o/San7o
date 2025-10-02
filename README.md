@@ -60,6 +60,7 @@ Some other interesting projects that you should check out.
   - [The Kibebpf website](https://san7o.github.io/kivebpf/): more documentation about the operator
 - [Baldo scanner](https://github.com/San7o/Baldo-Scanner): antivirus daemon for linux using a kernel module
 - [tenno-tl](https://github.com/San7o/tenno-tl): secure and thread safe c++26 STL alternative
+- [cosu!](https://github.com/San7o/cosu): A rhythm game written in C, (not yet fully) compatible with osu!mania maps.
 - [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386
 
 ## Lisp
