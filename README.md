@@ -59,18 +59,12 @@ Some other interesting projects that you should check out.
 
 - [kivebpf](https://github.com/San7o/kivebpf): eBPF-powered file access monitoring Kubernetes operator
   - [The Kibebpf website](https://san7o.github.io/kivebpf/): more documentation about the operator
-- [Baldo scanner](https://github.com/San7o/Baldo-Scanner): antivirus daemon for linux using a kernel module
-- [tenno-tl](https://github.com/San7o/tenno-tl): secure and thread safe c++26 STL alternative
-- [cosu!](https://github.com/San7o/cosu): A rhythm game written in C, (not yet fully) compatible with osu!mania maps.
-- [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386
-
-## Lisp
-Lisp is a nice language, I have written a Lisp interpreter and some emacs packages.
-
 - [haplolang](https://github.com/San7o/haplolang): a Lisp-like, s-expression based, imperative, strongly typed programming language
   - [The Design and Implementation of Haplolang](https://san7o.github.io/haplolang/): my notes after implementing the language
-- [tiny-rss](https://github.com/San7o/tiny-rss.git): RSS feeds generator for org mode
-- [musync](https://github.com/San7o/musync.el.git): download music declaratively
+- [Baldo scanner](https://github.com/San7o/Baldo-Scanner): antivirus daemon for linux using a kernel module
+- [tenno-tl](https://github.com/San7o/tenno-tl): a partial re-implementation of the c++26 standard library
+- [cosu!](https://github.com/San7o/cosu): A rhythm game written in C, (not yet fully) compatible with osu!mania maps.
+- [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386
 
 ## Web
 Several web backend projects.
@@ -91,6 +85,8 @@ Backlog of projects.
 - [Algorithms and Data Structure course (Italian)](https://giovanni-diary.netlify.app/programming/notes/algoritmi/algoritmi): high quality notes from my Algorithms university course
 - [modern-cpp-template](https://github.com/San7o/modern-cpp-template): a template for c++ libraries
 - [parallel-computing-cpp](https://github.com/San7o/parallel-computing-cpp): MPI and OpenMP algorithms and benchmarks
+- [tiny-rss](https://github.com/San7o/tiny-rss.git): RSS feeds generator for org mode
+- [musync](https://github.com/San7o/musync.el.git): download music declaratively
 - [ssap](https://github.com/San7o/ssap): local password encryption manager written in in Rust
 - [rust-lc3](https://github.com/San7o/rust-little-computer-3): implementation of a virtual machine for [LC-3](https://en.wikipedia.org/wiki/Little_Computer_3)
 - [robotUI](https://github.com/San7o/rust-robotUI): bevy visualizer for Advanced Programming 2023 @Unitn
