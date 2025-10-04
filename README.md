@@ -37,6 +37,7 @@ A collection of high-quality, configurable, header-only libraries written in C99
 - [micro-log.h](https://github.com/San7o/micro-log.h): configurable, thread safe logging framework in C99. With lots of features.
 - [micro-bench.h](https://github.com/San7o/micro-bench.h): micro benchmarking library.
 - [micro-flag.h](https://github.com/San7o/micro-flag.h/): tiny library to parse command line arguments.
+- [micro-serde.h](https://github.com/San7o/micro-serde.h): serialization library for C99, in ~150 lines of code.
 - [micro-hash.h](https://github.com/San7o/micro-hash.h): quick and dirty hash functions in C99, with some benchmarks.
 - [micro-draw.h](https://github.com/San7o/micro-draw.h): a 2D software renderer.
 - [hll.h](https://github.com/San7o/hll.h): configurable, header-only implementation of HyperLogLog, used for approximating the cardinality of large multisets.
