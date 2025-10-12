@@ -36,6 +36,7 @@ A collection of high-quality, configurable, header-only libraries written in C99
 - [micro-tests.h](https://github.com/San7o/micro-tests.h): lightweight, header-only testing framework, with multithread support and run-time settings.
 - [micro-log.h](https://github.com/San7o/micro-log.h): configurable, thread safe logging framework in C99. With lots of features.
 - [micro-draw.h](https://github.com/San7o/micro-draw.h): a 2D software renderer.
+  - Projects that use this renderer: [cosu](https://github.com/San7o/cosu), [cgis](https://github.com/San7o/cgis), [game-of-life](https://san7o.github.io/micro-draw.h/#canvas) (wasm)
 - [micro-serde.h](https://github.com/San7o/micro-serde.h): serialization library for C99, in ~150 lines of code.
 - [micro-flag.h](https://github.com/San7o/micro-flag.h/): tiny library to parse command line arguments.
 - [micro-bench.h](https://github.com/San7o/micro-bench.h): micro benchmarking library.
@@ -59,12 +60,13 @@ A collection of useful tools for programmers to solve programmer problems. Mostl
 ## Highlights
 Some other interesting projects that you should check out.
 
-- [kivebpf](https://github.com/San7o/kivebpf): eBPF-powered file access monitoring Kubernetes operator
-  - [The Kibebpf website](https://san7o.github.io/kivebpf/): more documentation about the operator
 - [haplolang](https://github.com/San7o/haplolang): a Lisp-like, s-expression based, imperative, strongly typed programming language
   - [The Design and Implementation of Haplolang](https://san7o.github.io/haplolang/): my notes after implementing the language
+- [kivebpf](https://github.com/San7o/kivebpf): eBPF-powered file access monitoring Kubernetes operator
+  - [The Kibebpf website](https://san7o.github.io/kivebpf/): more documentation about the operator
 - [Baldo scanner](https://github.com/San7o/Baldo-Scanner): antivirus daemon for linux using a kernel module
 - [tenno-tl](https://github.com/San7o/tenno-tl): a partial re-implementation of the c++26 standard library
+- [liblaunchpad.h](https://github.com/San7o/liblaunchpad.h): An abstraction layer over Novation's Launchpad S through ALSA, as an header-only C99 library. 
 - [cosu!](https://github.com/San7o/cosu): A rhythm game written in C, (not yet fully) compatible with osu!mania maps.
 - [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386
 
