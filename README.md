@@ -132,6 +132,16 @@ Custom configurations for my daily development setup and workflow.
 - [obsidian-chill-theme](https://github.com/San7o/obsidian-chill-theme): my custom obsidian theme
 - [obsidian-advanced-slided-theme](https://github.com/San7o/obsidian-advanced-slides-theme-chill): custom theme for obsidian advanced slides
 
+### My Favourite libraries
+
+These are the libraries that I use the most in my projects and that I find incredibly useful.
+
+- [SDL](https://github.com/libsdl-org/SDL) (C): my goto library for writing desktop applications
+- [RGFW](https://github.com/ColleagueRiley/RGFW) (C99): when you just want to open a window in a cross-platform way, love it!
+- [raylib](https://github.com/raysan5/raylib) (C): simple 2D/3D graphics library
+- [miniaudio](https://github.com/mackron/miniaudio) (C): my goto library to play and mix audio
+- [micro-headers](https://github.com/San7o/micro-headers) (C99): my own cool libraries for all my other projects
+
 ### Minor Contributions
 
 Minor contributions all over the interweb:
