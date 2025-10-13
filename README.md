@@ -48,6 +48,7 @@ A collection of high-quality, configurable, header-only libraries written in C99
 - [hashmap.h](https://github.com/San7o/hashmap.h): implementation of an hashmap for any type.
 - [hashset.h](https://github.com/San7o/hashset.h): implementation of an hashset for any type.
 - [llist.h](https://github.com/San7o/llist.h): a type-safe, generic doubly-linked list in C99.
+- [liblaunchpad.h](https://github.com/San7o/liblaunchpad.h): An abstraction layer over Novation's Launchpad S through ALSA, as an header-only C99 library.
 - [game-of-life.h](https://github.com/San7o/game-of-life.h/): Conway's Game of Life logic implementation.
 
 ## (New) [micro-tools](https://github.com/San7o/micro-tools)
@@ -66,7 +67,6 @@ Some other interesting projects that you should check out.
   - [The Kibebpf website](https://san7o.github.io/kivebpf/): more documentation about the operator
 - [Baldo scanner](https://github.com/San7o/Baldo-Scanner): antivirus daemon for linux using a kernel module
 - [tenno-tl](https://github.com/San7o/tenno-tl): a partial re-implementation of the c++26 standard library
-- [liblaunchpad.h](https://github.com/San7o/liblaunchpad.h): An abstraction layer over Novation's Launchpad S through ALSA, as an header-only C99 library. 
 - [cosu!](https://github.com/San7o/cosu): A rhythm game written in C, (not yet fully) compatible with osu!mania maps.
 - [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386
 
