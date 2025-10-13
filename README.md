@@ -138,7 +138,7 @@ These are the libraries that I use the most in my projects and that I find incre
 
 - [SDL](https://github.com/libsdl-org/SDL) (C): my goto library for writing desktop applications
 - [RGFW](https://github.com/ColleagueRiley/RGFW) (C99): when you just want to open a window in a cross-platform way, love it!
-- [raylib](https://github.com/raysan5/raylib) (C): simple 2D/3D graphics library
+- [raylib](https://github.com/raysan5/raylib) (C99): simple 2D/3D graphics library
 - [miniaudio](https://github.com/mackron/miniaudio) (C): my goto library to play and mix audio
 - [micro-headers](https://github.com/San7o/micro-headers) (C99): my own cool libraries for all my other projects
 
