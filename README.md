@@ -132,5 +132,12 @@ Custom configurations for my daily development setup and workflow.
 - [obsidian-chill-theme](https://github.com/San7o/obsidian-chill-theme): my custom obsidian theme
 - [obsidian-advanced-slided-theme](https://github.com/San7o/obsidian-advanced-slides-theme-chill): custom theme for obsidian advanced slides
 
+### Minor Contributions
+
+Minor contributions all over the interweb:
+
+- https://github.com/riscv/riscv-opcodes/pull/375: Correct parse.py example
+- https://github.com/ColleagueRiley/RGFW/pull/329: fix example program
+
 </details>
 
