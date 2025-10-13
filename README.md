@@ -120,12 +120,14 @@ Code extracted from my other projects that can be easily reused, or implementati
 - [clear_screen.c](https://gist.github.com/San7o/0a7ab7492e521cb5decd0e4eac18b276):  Clear the terminal screen using ANSI control sequences.
 - [delta_time.c](https://gist.github.com/San7o/51807bdc9266241c76f15ac4247167db): Calculate the frame delta time and render a certain number of times per seconds in C99.
 - [Makefile](https://gist.github.com/San7o/630a4c8a42ae5b914a4fe41b4f19e374): Simple Makefile template for C projects.
+- [CMakeLists.txt](https://gist.github.com/San7o/25c16f1a069474581bda8b33aa5f8001): Modern Cmake template for C++ projects. 
 
 ### Setup
 Custom configurations for my daily development setup and workflow.
 
 - [.emacs.d](https://github.com/San7o/.emacs.d.git): my emacs configuration
-- [dwm](https://github.com/San7o/dwm.git): my fork of DWM
+- [dwm](https://github.com/San7o/dwm.git): my fork of DWM and DWL
+- [i3config](https://gist.github.com/San7o/63bfb7f49153ebabb3a98e44e47e1182): i3 configuration, I use it as a fallback
 - [lfs](https://github.com/San7o/lfs): my Linux From Scratch distribution
 - [mapkg](https://github.com/San7o/mapkg): my own packet manager
 - [nixos-dotfiles](https://github.com/San7o/nixos-dotfiles): my (outdated) nixos setup
@@ -141,6 +143,7 @@ These are the libraries that I use the most in my projects and that I find incre
 - [raylib](https://github.com/raysan5/raylib) (C99): simple 2D/3D graphics library
 - [miniaudio](https://github.com/mackron/miniaudio) (C): my goto library to play and mix audio
 - [micro-headers](https://github.com/San7o/micro-headers) (C99): my own cool libraries for all my other projects
+- [SFML](https://github.com/SFML/SFML) (c++17): another great multimedia library, more ideomatic for C++
 
 ### Minor Contributions
 
