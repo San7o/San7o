@@ -20,15 +20,6 @@ Get in contact with me:
  <summary>
       Click to view a list of my projects
  </summary>
- 
-## 3D Game Engine
-A batteries included and highly documented 3D renderer and game engine written in modern C++, with a custom ECS framework.
-
-- [Brenta Engine](https://github.com/San7o/Brenta-Engine): the engine's main repo
-  - [The Brenta Engine website](https://san7o.github.io/brenta-engine-documentation/v1.1/): documentation for the engine
-- [valfuzz](https://github.com/San7o/valFuzz): modern testing and fuzzing library. [website](https://san7o.github.io/brenta-engine-documentation/valfuzz/v1.0/)
-- [oak](https://github.com/San7o/oak): a feature-rich thread-safe C++23 logger library. [website](https://san7o.github.io/brenta-engine-documentation/oak/v1.0/)
-- [viotecs](https://github.com/San7o/viotecs): the engine's ECS. [website](https://san7o.github.io/brenta-engine-documentation/viotecs/v1.0/)
 
 ## [micro-headers](https://github.com/San7o/micro-headers)
 A collection of high-quality, configurable, header-only libraries written in C99. The libraries are designed to be highly reusable, simple to maintain with little to no dependencies, and easy to integrate in your projects.
@@ -61,26 +52,19 @@ A collection of useful tools for programmers to solve programmer problems. Mostl
 ## Highlights
 Some other interesting projects that you should check out.
 
+- [Brenta Engine](https://github.com/San7o/Brenta-Engine): a 3D renderer and game engine in modern C++, with a custom ECS framework. [website](https://san7o.github.io/brenta-engine-documentation/v1.1/)
+  - Satellite projects:
+    - [valfuzz](https://github.com/San7o/valFuzz): modern testing and fuzzing library. [website](https://san7o.github.io/brenta-engine-documentation/valfuzz/v1.0/)
+    - [oak](https://github.com/San7o/oak): a feature-rich thread-safe C++23 logger library. [website](https://san7o.github.io/brenta-engine-documentation/oak/v1.0/)
+    - [viotecs](https://github.com/San7o/viotecs): the engine's ECS. [website](https://san7o.github.io/brenta-engine-documentation/viotecs/v1.0/)
 - [haplolang](https://github.com/San7o/haplolang): a Lisp-like, s-expression based, imperative, strongly typed programming language
   - [The Design and Implementation of Haplolang](https://san7o.github.io/haplolang/): my notes after implementing the language
 - [kivebpf](https://github.com/San7o/kivebpf): eBPF-powered file access monitoring Kubernetes operator
   - [The Kibebpf website](https://san7o.github.io/kivebpf/): more documentation about the operator
-- [Baldo scanner](https://github.com/San7o/Baldo-Scanner): antivirus daemon for linux using a kernel module
+- [Baldo scanner](https://github.com/San7o/Baldo-Scanner): malware scanner daemon for linux using a kernel module
 - [tenno-tl](https://github.com/San7o/tenno-tl): a partial re-implementation of the c++26 standard library
 - [cosu!](https://github.com/San7o/cosu): A rhythm game written in C, (not yet fully) compatible with osu!mania maps.
 - [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386
-
-## Web
-Several web backend projects.
-
-- [fixmi](https://github.com/orgs/IS-FixMi/repositories): business management software using microservices.
-  -  [documentation](https://github.com/IS-FixMi/FixMi)
-  -  [root-project](https://github.com/IS-FixMi/fixmi-compose)
-- [risto89](https://github.com/San7o/risto89-fork): online tickets market in java
-- [ledger-board](https://github.com/San7o/ledger-board): highly scalable transaction producer/consumer app, built with **Kubernetes, Kafka, Django, Angular, Nginx, Redis, Celery, Docker.**
-- [elixir-blockchain](https://github.com/San7o/elixir-simple-bockchain): a simple blockchain library implemented in **elixir**.
-- [react-express-template](https://github.com/San7o/react-express-template): a meplate for web applications using node, express, typescript, react, tailwind, docker.
-- [webgl-markdown-portfolio](https://github.com/San7o/webgl-markdown-portfolio): a 3D renderer in WebGL and Angular
 
 ## Misc / Old
 Backlog of projects.
@@ -88,7 +72,14 @@ Backlog of projects.
 - [Introduction-to-machine-learning](https://github.com/San7o/Introduction-to-machine-learning): useful notes for students studying for an introductionary course to Machine Learning, or to anyone interested in the subject.
 - [Algorithms and Data Structure course (Italian)](https://giovanni-diary.netlify.app/programming/notes/algoritmi/algoritmi): high quality notes from my Algorithms university course
 - [modern-cpp-template](https://github.com/San7o/modern-cpp-template): a template for c++ libraries
+- [linux-kernel-module](https://github.com/San7o/linux-kernel-module): hello world kernel module with a full developement setup using qemu
 - [parallel-computing-cpp](https://github.com/San7o/parallel-computing-cpp): MPI and OpenMP algorithms and benchmarks
+- [fixmi](https://github.com/orgs/IS-FixMi/repositories): business management software using microservices.
+  -  [documentation](https://github.com/IS-FixMi/FixMi)
+  -  [root-project](https://github.com/IS-FixMi/fixmi-compose)
+- [elixir-blockchain](https://github.com/San7o/elixir-simple-bockchain): a simple blockchain library implemented in **elixir**.
+- [react-express-template](https://github.com/San7o/react-express-template): a meplate for web applications using node, express, typescript, react, tailwind, docker.
+- [webgl-markdown-portfolio](https://github.com/San7o/webgl-markdown-portfolio): a 3D renderer in WebGL and Angular
 - [tiny-rss](https://github.com/San7o/tiny-rss.git): RSS feeds generator for org mode
 - [musync](https://github.com/San7o/musync.el.git): download music declaratively
 - [ssap](https://github.com/San7o/ssap): local password encryption manager written in in Rust
@@ -101,11 +92,12 @@ Backlog of projects.
 - [cchecker](https://github.com/San7o/cchecker): borrow checker in C++
 - [regEZ](https://github.com/San7o/regEZ): fully constexpr regex implementation in modern C++
 - [go-ebpf](https://github.com/San7o/go-ebpf): example eBPF program in go
+- [risto89](https://github.com/San7o/risto89-fork): online tickets market in java
+- [ledger-board](https://github.com/San7o/ledger-board): highly scalable transaction producer/consumer app, built with Kubernetes, Kafka, Django, Angular, Nginx, Redis, Celery, Docker.
 - [how-to-root-samsung-galaxy-j5](https://github.com/San7o/how-to-root-samsung-galaxy-j5): instructions to root a Samsung Galaxy J5
 - [hypr-nerd-gestures](https://github.com/San7o/hypr-nerd-gestures): control hyprland through hand gestures, using **openCV**.
 - [launchpad-app-launcher](https://github.com/San7o/launchpad-app-launcher): launch commands from a novation's launchpad
 - [modern-python-template](https://github.com/San7o/modern-python-template)
-- [linux-kernel-module](https://github.com/San7o/linux-kernel-module): hello world kernel module with a full developement setup using qemu
 - [youtube-minuature-generator](https://github.com/San7o/youtube-miniature-generator)
 - many more...
 
