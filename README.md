@@ -33,13 +33,14 @@ A collection of high-quality, configurable, header-only libraries written in C99
 - [micro-bench.h](https://github.com/San7o/micro-bench.h): micro benchmarking library.
 - [micro-hash.h](https://github.com/San7o/micro-hash.h): quick and dirty hash functions in C99, with some benchmarks.
 - [hll.h](https://github.com/San7o/hll.h): configurable, header-only implementation of HyperLogLog, used for approximating the cardinality of large multisets.
-- [bloom-filter.h](https://github.com/San7o/bloom-filter.h): A configurable, header-only implementation of bloom filters, a space-efficient probabilistic data structure that is used to test whether an element is a member of a set.
+- [bloom-filter.h](https://github.com/San7o/bloom-filter.h): configurable, header-only implementation of bloom filters, a space-efficient probabilistic data structure that is used to test whether an element is a member of a set.
 - [rendezvous-hasher.h](https://github.com/San7o/rendezvous-hasher.h): dependency-free implementation of Rendezvous Hashing (a.k.a. Highest Random Weight hashing), useful for distributing keys across a dynamic set of nodes.
 - [consistent-hasher.h](https://github.com/San7o/consistent-hasher.h): implementation of consistent hashing, alternative to rendezvous-hashing.
 - [hashmap.h](https://github.com/San7o/hashmap.h): implementation of an hashmap for any type.
 - [hashset.h](https://github.com/San7o/hashset.h): implementation of an hashset for any type.
-- [llist.h](https://github.com/San7o/llist.h): a type-safe, generic doubly-linked list in C99.
-- [liblaunchpad.h](https://github.com/San7o/liblaunchpad.h): An abstraction layer over Novation's Launchpad S through ALSA, as an header-only C99 library.
+- [llist.h](https://github.com/San7o/llist.h): type-safe, generic doubly-linked list in C99.
+- [liblaunchpad.h](https://github.com/San7o/liblaunchpad.h): abstraction layer over Novation's Launchpad S through ALSA, as an header-only C99 library.
+- [micro-example.h](https://github.com/San7o/micro-example.h): example header-only library in C99 used as a template project, in the style of the great micro-headers.
 - [game-of-life.h](https://github.com/San7o/game-of-life.h/): Conway's Game of Life logic implementation.
 
 ## (New) [micro-tools](https://github.com/San7o/micro-tools)
