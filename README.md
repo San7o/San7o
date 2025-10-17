@@ -86,6 +86,7 @@ Backlog of projects.
 - [webgl-markdown-portfolio](https://github.com/San7o/webgl-markdown-portfolio): a 3D renderer in WebGL and Angular
 - [tiny-rss](https://github.com/San7o/tiny-rss.git): RSS feeds generator for org mode
 - [musync](https://github.com/San7o/musync.el.git): download music declaratively
+- [snakepp](https://github.com/San7o/snakepp): simple demo of snake in C++, using SFML.
 - [ssap](https://github.com/San7o/ssap): local password encryption manager written in in Rust
 - [rust-lc3](https://github.com/San7o/rust-little-computer-3): implementation of a virtual machine for [LC-3](https://en.wikipedia.org/wiki/Little_Computer_3)
 - [robotUI](https://github.com/San7o/rust-robotUI): bevy visualizer for Advanced Programming 2023 @Unitn
