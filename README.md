@@ -116,7 +116,8 @@ Code extracted from my other projects that can be easily reused, or implementati
   on a one-dimensional dataset in C.
 - [perceptron.c](https://gist.github.com/San7o/da2efc84eb3e7c8bdbefbd540c8cfbea): Implementation of a perceptron for binary
   classification in C.
-- [mmap_file.c](https://gist.github.com/San7o/1c88efae81f499e5882d0f63104a228e): Read a file's contents using mmap, faster than read(2). Neat optimization on POSIX systems. 
+- [mmap_file.c](https://gist.github.com/San7o/1c88efae81f499e5882d0f63104a228e): Read a file's contents using mmap, faster than read(2). Neat optimization on POSIX systems.
+- [traverse_dir.c](https://gist.github.com/San7o/270736ae4c9215aeee80d4593156c003): Traverse a directory recursively and call handle_file on each file.
 - [djb2.c](https://gist.github.com/San7o/e41c79a609aaf3385f133d309ec39922):  Simple hash function for strings.
 - [lcg.c](https://gist.github.com/San7o/f979a38a4746990da527041d62da2d71): LCG algorithm for fast pseudo random number generation.
 - [mandelbrot.c](https://gist.github.com/San7o/2eea69c31a9f631253d2b9c72d9fe34a): Get the number of iterations of a point in the Mandelbrot set.
