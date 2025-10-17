@@ -111,6 +111,7 @@ Code extracted from my other projects that can be easily reused, or implementati
 - [inet_server.c](https://gist.github.com/San7o/4af3f058cd1508f9779a310aef75b9c6): Create an inet server that reads data sent to it
 - [set_signals.c](https://gist.github.com/San7o/c933925bc8bc8beb493bc618c90e1cbf): Setup an handler for various POSIX signals.
 - [sdl_window.c](https://gist.github.com/San7o/b80ee8e26fecda3bfaa113b12be470c5): Create an SDL3 window and poll events.
+- [micro-style.css](https://gist.github.com/San7o/e56fc5299abbc7e21ba7a049b8078d5d): Very simple css style for minimalistic websites.
 - [knn.c](https://gist.github.com/San7o/4bfe69a9e1eb251d5267d8b74ff73dda): Implementation of KNN for supervised learning classification
   on a one-dimensional dataset in C.
 - [perceptron.c](https://gist.github.com/San7o/da2efc84eb3e7c8bdbefbd540c8cfbea): Implementation of a perceptron for binary
