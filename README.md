@@ -75,6 +75,7 @@ Backlog of projects.
 
 - [Introduction-to-machine-learning](https://github.com/San7o/Introduction-to-machine-learning): useful notes for students studying for an introductionary course to Machine Learning, or to anyone interested in the subject.
 - [Algorithms and Data Structure course (Italian)](https://giovanni-diary.netlify.app/programming/notes/algoritmi/algoritmi): high quality notes from my Algorithms university course
+- [design-patterns-cpp](https://github.com/San7o/design-patterns-cpp.git): implementation of common design patterns in C++, useful reference for many projects.
 - [modern-cpp-template](https://github.com/San7o/modern-cpp-template): a template for c++ libraries
 - [linux-kernel-module](https://github.com/San7o/linux-kernel-module): hello world kernel module with a full developement setup using qemu
 - [parallel-computing-cpp](https://github.com/San7o/parallel-computing-cpp): MPI and OpenMP algorithms and benchmarks
