@@ -123,6 +123,7 @@ Code extracted from my other projects that can be easily reused, or implementati
 - [traverse_dir.c](https://gist.github.com/San7o/270736ae4c9215aeee80d4593156c003): Traverse a directory recursively and call handle_file on each file.
 - [djb2.c](https://gist.github.com/San7o/e41c79a609aaf3385f133d309ec39922):  Simple hash function for strings.
 - [lcg.c](https://gist.github.com/San7o/f979a38a4746990da527041d62da2d71): LCG algorithm for fast pseudo random number generation.
+- [utils.h](https://gist.github.com/San7o/6660fde97f359b83040a4b762a978f14): Utility macros for C projects.
 - [mandelbrot.c](https://gist.github.com/San7o/2eea69c31a9f631253d2b9c72d9fe34a): Get the number of iterations of a point in the Mandelbrot set.
 - [left_space.c](https://gist.github.com/San7o/b1161f85888bc09a995e1fb3f54f52da): Get number of separator charactes from the left of a string in C99.
 - [clear_screen.c](https://gist.github.com/San7o/0a7ab7492e521cb5decd0e4eac18b276):  Clear the terminal screen using ANSI control sequences.
