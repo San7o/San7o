@@ -129,7 +129,8 @@ Code extracted from my other projects that can be easily reused, or implementati
 - [clear_screen.c](https://gist.github.com/San7o/0a7ab7492e521cb5decd0e4eac18b276):  Clear the terminal screen using ANSI control sequences.
 - [delta_time.c](https://gist.github.com/San7o/51807bdc9266241c76f15ac4247167db): Calculate the frame delta time and render a certain number of times per seconds in C99.
 - [Makefile](https://gist.github.com/San7o/630a4c8a42ae5b914a4fe41b4f19e374): Simple Makefile template for C projects.
-- [CMakeLists.txt](https://gist.github.com/San7o/25c16f1a069474581bda8b33aa5f8001): Modern Cmake template for C++ projects. 
+- [CMakeLists.txt](https://gist.github.com/San7o/25c16f1a069474581bda8b33aa5f8001): Modern Cmake template for C++ projects.
+- [windows-commands.ps1](https://gist.github.com/San7o/b4650e0b1be17cb9d1c8f853076165a7): Useful Microsoft Windows commands.
 
 ### Setup
 Custom configurations for my daily development setup and workflow.
