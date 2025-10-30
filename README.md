@@ -24,33 +24,33 @@ Get in contact with me:
 ## [micro-headers](https://github.com/San7o/micro-headers)
 A collection of high-quality, configurable, header-only libraries written in C99. The libraries are designed to be highly reusable, simple to maintain with little to no dependencies, and easy to integrate in your projects. [website](https://san7o.github.io/micro-headers/)
 
-- [micro-tests.h](https://github.com/San7o/micro-tests.h): lightweight, header-only testing framework, with multithread support and run-time settings.
-- [micro-log.h](https://github.com/San7o/micro-log.h): configurable, thread safe logging framework in C99. With lots of features.
-- [micro-draw.h](https://github.com/San7o/micro-draw.h): a 2D software renderer.
+- [micro-tests.h](https://github.com/San7o/micro-tests.h): lightweight, header-only testing framework, with multithread support and run-time settings
+- [micro-log.h](https://github.com/San7o/micro-log.h): configurable, thread safe logging framework in C99. With lots of features
+- [micro-draw.h](https://github.com/San7o/micro-draw.h): a 2D software renderer
   - Projects that use this renderer: [cosu](https://github.com/San7o/cosu), [cgis](https://github.com/San7o/cgis), [game-of-life](https://san7o.github.io/micro-draw.h/#canvas) (wasm)
-- [micro-flag.h](https://github.com/San7o/micro-flag.h/): tiny library to parse command line arguments.
-- [micro-module.h](https://github.com/San7o/micro-module.h): define, load, and unload runtime modules / plugins with a simple C99 API.
+- [micro-flag.h](https://github.com/San7o/micro-flag.h/): tiny library to parse command line arguments
+- [micro-module.h](https://github.com/San7o/micro-module.h): define, load, and unload runtime modules / plugins with a simple C99 API
 - [micro-serde.h](https://github.com/San7o/micro-serde.h): serialization library for C99, in ~150 lines of code.
-- [micro-bench.h](https://github.com/San7o/micro-bench.h): micro benchmarking library.
-- [micro-conf.h](https://github.com/San7o/micro-conf.h): library to parse config files.
-- [micro-hash.h](https://github.com/San7o/micro-hash.h): quick and dirty hash functions in C99, with some benchmarks.
+- [micro-bench.h](https://github.com/San7o/micro-bench.h): micro benchmarking library
+- [micro-conf.h](https://github.com/San7o/micro-conf.h): library to parse config files
+- [micro-hash.h](https://github.com/San7o/micro-hash.h): quick and dirty hash functions in C99, with some benchmarks
 - [micro-la.h]( https://github.com/San7o/micro-la.h.git): linear algebra types and functions
-- [hll.h](https://github.com/San7o/hll.h): configurable, header-only implementation of HyperLogLog, used for approximating the cardinality of large multisets.
-- [bloom-filter.h](https://github.com/San7o/bloom-filter.h): configurable, header-only implementation of bloom filters, a space-efficient probabilistic data structure that is used to test whether an element is a member of a set.
-- [rendezvous-hasher.h](https://github.com/San7o/rendezvous-hasher.h): dependency-free implementation of Rendezvous Hashing (a.k.a. Highest Random Weight hashing), useful for distributing keys across a dynamic set of nodes.
-- [consistent-hasher.h](https://github.com/San7o/consistent-hasher.h): implementation of consistent hashing, alternative to rendezvous-hashing.
-- [hashmap.h](https://github.com/San7o/hashmap.h): implementation of an hashmap for any type.
-- [hashset.h](https://github.com/San7o/hashset.h): implementation of an hashset for any type.
-- [llist.h](https://github.com/San7o/llist.h): type-safe, generic doubly-linked list in C99.
-- [liblaunchpad.h](https://github.com/San7o/liblaunchpad.h): abstraction layer over Novation's Launchpad S through ALSA, as an header-only C99 library.
-- [micro-example.h](https://github.com/San7o/micro-example.h): example header-only library in C99 used as a template project, in the style of the great micro-headers.
-- [game-of-life.h](https://github.com/San7o/game-of-life.h/): Conway's Game of Life logic implementation.
+- [hll.h](https://github.com/San7o/hll.h): configurable, header-only implementation of HyperLogLog, used for approximating the cardinality of large multisets
+- [bloom-filter.h](https://github.com/San7o/bloom-filter.h): configurable, header-only implementation of bloom filters, a space-efficient probabilistic data structure that is used to test whether an element is a member of a set
+- [rendezvous-hasher.h](https://github.com/San7o/rendezvous-hasher.h): dependency-free implementation of Rendezvous Hashing (a.k.a. Highest Random Weight hashing), useful for distributing keys across a dynamic set of nodes
+- [consistent-hasher.h](https://github.com/San7o/consistent-hasher.h): implementation of consistent hashing, alternative to rendezvous-hashing
+- [hashmap.h](https://github.com/San7o/hashmap.h): implementation of an hashmap for any type
+- [hashset.h](https://github.com/San7o/hashset.h): implementation of an hashset for any type
+- [llist.h](https://github.com/San7o/llist.h): type-safe, generic doubly-linked list in C99
+- [liblaunchpad.h](https://github.com/San7o/liblaunchpad.h): abstraction layer over Novation's Launchpad S through ALSA, as an header-only C99 library
+- [micro-example.h](https://github.com/San7o/micro-example.h): example header-only library in C99 used as a template project, in the style of the great micro-headers
+- [game-of-life.h](https://github.com/San7o/game-of-life.h/): Conway's Game of Life logic implementation
 
 ## (New) [micro-tools](https://github.com/San7o/micro-tools)
 A collection of useful tools for programmers to solve programmer problems. Mostly written in C99.
 
-- [micro-templating.c](https://github.com/San7o/micro-templating.c/): A simple tool to generate a file from a template, in ~200 lines of code.  
-- [micro-timerd](https://github.com/San7o/micro-timerd/): Client-server application to start, stop and list timers.   
+- [micro-templating.c](https://github.com/San7o/micro-templating.c/): A simple tool to generate a file from a template, in ~200 lines of code
+- [micro-timerd](https://github.com/San7o/micro-timerd/): Client-server application to start, stop and list timers
 - [lkde-tool](https://github.com/San7o/lkde-tool): An useful tool to develop and test kernel patches and applications in multiple kernel branches, trees, architectures and configurations.
 
 ## Highlights
@@ -67,27 +67,30 @@ Some other interesting projects that you should check out.
   - [The Kibebpf website](https://san7o.github.io/kivebpf/): more documentation about the operator
 - [Baldo scanner](https://github.com/San7o/Baldo-Scanner): malware scanner daemon for linux using a kernel module
 - [tenno-tl](https://github.com/San7o/tenno-tl): a partial re-implementation of the c++26 standard library
-- [cosu!](https://github.com/San7o/cosu): A rhythm game written in C, (not yet fully) compatible with osu!mania maps.
-- [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386
 
 ## Misc / Old
 Backlog of projects.
 
-- [Introduction-to-machine-learning](https://github.com/San7o/Introduction-to-machine-learning): useful notes for students studying for an introductionary course to Machine Learning, or to anyone interested in the subject.
+- [Introduction-to-machine-learning](https://github.com/San7o/Introduction-to-machine-learning): useful notes for students studying for an introductionary course to Machine Learning, or to anyone interested in the subject
 - [Algorithms and Data Structure course (Italian)](https://giovanni-diary.netlify.app/programming/notes/algoritmi/algoritmi): high quality notes from my Algorithms university course
-- [design-patterns-cpp](https://github.com/San7o/design-patterns-cpp.git): implementation of common design patterns in C++, useful reference for many projects.
-- [modern-cpp-template](https://github.com/San7o/modern-cpp-template): a template for c++ libraries
+- [design-patterns-cpp](https://github.com/San7o/design-patterns-cpp.git): implementation of common design patterns in C++, useful reference for many projects
+- [ld-preload-sample](https://github.com/San7o/ld-preload-sample): sample LD_PRELOAD demonstration to replace libc functions
+- [ebpf-c-sample](https://github.com/San7o/ebpf-c-sample): sample project for an eBPF program + loader in C with libbpf and clang
+- [opentelemetry-cpp-sample](https://github.com/San7o/opentelemetry-cpp-sample): sample C++ application with OpenTelemetry instrumentation to emit telemetry data
 - [linux-kernel-module](https://github.com/San7o/linux-kernel-module): hello world kernel module with a full developement setup using qemu
+- [cosu!](https://github.com/San7o/cosu): A rhythm game written in C, (not yet fully) compatible with osu!mania maps.
+- [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386.
+- [modern-cpp-template](https://github.com/San7o/modern-cpp-template): a template for c++ libraries
 - [parallel-computing-cpp](https://github.com/San7o/parallel-computing-cpp): MPI and OpenMP algorithms and benchmarks
 - [fixmi](https://github.com/orgs/IS-FixMi/repositories): business management software using microservices.
   -  [documentation](https://github.com/IS-FixMi/FixMi)
   -  [root-project](https://github.com/IS-FixMi/fixmi-compose)
-- [elixir-blockchain](https://github.com/San7o/elixir-simple-bockchain): a simple blockchain library implemented in **elixir**.
+- [elixir-blockchain](https://github.com/San7o/elixir-simple-bockchain): a simple blockchain library implemented in elixir.
 - [react-express-template](https://github.com/San7o/react-express-template): a meplate for web applications using node, express, typescript, react, tailwind, docker.
-- [webgl-markdown-portfolio](https://github.com/San7o/webgl-markdown-portfolio): a 3D renderer in WebGL and Angular
+- [webgl-3D-renderer](https://github.com/San7o/webgl-3D-renderer): a 3D renderer in WebGL and Angular
 - [tiny-rss](https://github.com/San7o/tiny-rss.git): RSS feeds generator for org mode
 - [musync](https://github.com/San7o/musync.el.git): download music declaratively
-- [snakepp](https://github.com/San7o/snakepp): simple demo of snake in C++, using SFML.
+- [snakepp](https://github.com/San7o/snakepp): simple demo of snake in C++, using SFML
 - [ssap](https://github.com/San7o/ssap): local password encryption manager written in in Rust
 - [rust-lc3](https://github.com/San7o/rust-little-computer-3): implementation of a virtual machine for [LC-3](https://en.wikipedia.org/wiki/Little_Computer_3)
 - [robotUI](https://github.com/San7o/rust-robotUI): bevy visualizer for Advanced Programming 2023 @Unitn
@@ -99,9 +102,9 @@ Backlog of projects.
 - [regEZ](https://github.com/San7o/regEZ): fully constexpr regex implementation in modern C++
 - [go-ebpf](https://github.com/San7o/go-ebpf): example eBPF program in go
 - [risto89](https://github.com/San7o/risto89-fork): online tickets market in java
-- [ledger-board](https://github.com/San7o/ledger-board): highly scalable transaction producer/consumer app, built with Kubernetes, Kafka, Django, Angular, Nginx, Redis, Celery, Docker.
+- [ledger-board](https://github.com/San7o/ledger-board): highly scalable transaction producer/consumer app, built with Kubernetes, Kafka, Django, Angular, Nginx, Redis, Celery, Docker
 - [how-to-root-samsung-galaxy-j5](https://github.com/San7o/how-to-root-samsung-galaxy-j5): instructions to root a Samsung Galaxy J5
-- [hypr-nerd-gestures](https://github.com/San7o/hypr-nerd-gestures): control hyprland through hand gestures, using **openCV**.
+- [hypr-nerd-gestures](https://github.com/San7o/hypr-nerd-gestures): control hyprland through hand gestures, using openCV.
 - [launchpad-app-launcher](https://github.com/San7o/launchpad-app-launcher): launch commands from a novation's launchpad
 - [modern-python-template](https://github.com/San7o/modern-python-template)
 - [youtube-minuature-generator](https://github.com/San7o/youtube-miniature-generator)
@@ -137,7 +140,7 @@ Custom configurations for my daily development setup and workflow.
 
 - [.emacs.d](https://github.com/San7o/.emacs.d.git): my emacs configuration
 - [dwm](https://github.com/San7o/dwm.git): my fork of DWM and DWL
-- [init.lua](https://gist.github.com/San7o/2d5856a3c3de041091ee92d5488edf58): Simple Neovim configuration without too much bloat.
+- [init.lua](https://gist.github.com/San7o/2d5856a3c3de041091ee92d5488edf58): Simple Neovim configuration without too much bloat
 - [i3config](https://gist.github.com/San7o/63bfb7f49153ebabb3a98e44e47e1182): i3 configuration, I use it as a fallback
 - [lfs](https://github.com/San7o/lfs): my Linux From Scratch distribution
 - [mapkg](https://github.com/San7o/mapkg): my own packet manager
