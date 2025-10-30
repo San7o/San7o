@@ -82,6 +82,7 @@ Backlog of projects.
 - [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386.
 - [modern-cpp-template](https://github.com/San7o/modern-cpp-template): a template for c++ libraries
 - [parallel-computing-cpp](https://github.com/San7o/parallel-computing-cpp): MPI and OpenMP algorithms and benchmarks
+- [cycloidal-curves](https://github.com/San7o/cycloidal-curves/): Cycloidal curves interactive visualization. [website](https://san7o.github.io/cycloidal-curves/)
 - [fixmi](https://github.com/orgs/IS-FixMi/repositories): business management software using microservices.
   -  [documentation](https://github.com/IS-FixMi/FixMi)
   -  [root-project](https://github.com/IS-FixMi/fixmi-compose)
