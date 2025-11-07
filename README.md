@@ -28,6 +28,7 @@ A collection of high-quality, configurable, header-only libraries written in C99
 - [micro-log.h](https://github.com/San7o/micro-log.h): configurable, thread safe logging framework in C99. With lots of features
 - [micro-draw.h](https://github.com/San7o/micro-draw.h): a 2D software renderer
   - Projects that use this renderer: [cosu](https://github.com/San7o/cosu), [cgis](https://github.com/San7o/cgis), [game-of-life](https://san7o.github.io/micro-draw.h/#canvas) (wasm)
+- [micro-lex.h](https://github.com/San7o/micro-lex.h): simple lexer for lisp-like languages, and others.
 - [micro-flag.h](https://github.com/San7o/micro-flag.h/): tiny library to parse command line arguments
 - [micro-module.h](https://github.com/San7o/micro-module.h): define, load, and unload runtime modules / plugins with a simple C99 API
 - [micro-serde.h](https://github.com/San7o/micro-serde.h): serialization library for C99, in ~150 lines of code.
@@ -51,6 +52,7 @@ A collection of useful tools for programmers to solve programmer problems. Mostl
 
 - [micro-templating.c](https://github.com/San7o/micro-templating.c/): A simple tool to generate a file from a template, in ~200 lines of code
 - [micro-timerd](https://github.com/San7o/micro-timerd/): Client-server application to start, stop and list timers
+- [micro-sprite](https://github.com/San7o/micro-sprite): simple drawing tool.
 - [lkde-tool](https://github.com/San7o/lkde-tool): An useful tool to develop and test kernel patches and applications in multiple kernel branches, trees, architectures and configurations.
 
 ## Highlights
@@ -78,6 +80,7 @@ Backlog of projects.
 - [ebpf-c-sample](https://github.com/San7o/ebpf-c-sample): sample project for an eBPF program + loader in C with libbpf and clang
 - [opentelemetry-cpp-sample](https://github.com/San7o/opentelemetry-cpp-sample): sample C++ application with OpenTelemetry instrumentation to emit telemetry data
 - [linux-kernel-module](https://github.com/San7o/linux-kernel-module): hello world kernel module with a full developement setup using qemu
+- [micro-gl-sample](https://github.com/San7o/micro-gl-sample): simple setup project for OpenGL graphics.
 - [cosu!](https://github.com/San7o/cosu): A rhythm game written in C, (not yet fully) compatible with osu!mania maps.
 - [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386.
 - [modern-cpp-template](https://github.com/San7o/modern-cpp-template): a template for c++ libraries
