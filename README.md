@@ -122,10 +122,6 @@ Code extracted from my other projects that can be easily reused, or implementati
 - [set_signals.c](https://gist.github.com/San7o/c933925bc8bc8beb493bc618c90e1cbf): Setup an handler for various POSIX signals.
 - [sdl_window.c](https://gist.github.com/San7o/b80ee8e26fecda3bfaa113b12be470c5): Create an SDL3 window and poll events.
 - [micro-style.css](https://gist.github.com/San7o/e56fc5299abbc7e21ba7a049b8078d5d): Very simple css style for minimalistic websites.
-- [knn.c](https://gist.github.com/San7o/4bfe69a9e1eb251d5267d8b74ff73dda): Implementation of KNN for supervised learning classification
-  on a one-dimensional dataset in C.
-- [perceptron.c](https://gist.github.com/San7o/da2efc84eb3e7c8bdbefbd540c8cfbea): Implementation of a perceptron for binary
-  classification in C.
 - [mmap_file.c](https://gist.github.com/San7o/1c88efae81f499e5882d0f63104a228e): Read a file's contents using mmap, faster than read(2). Neat optimization on POSIX systems.
 - [traverse_dir.c](https://gist.github.com/San7o/270736ae4c9215aeee80d4593156c003): Traverse a directory recursively and call handle_file on each file.
 - [djb2.c](https://gist.github.com/San7o/e41c79a609aaf3385f133d309ec39922):  Simple hash function for strings.
@@ -138,6 +134,12 @@ Code extracted from my other projects that can be easily reused, or implementati
 - [Makefile](https://gist.github.com/San7o/630a4c8a42ae5b914a4fe41b4f19e374): Simple Makefile template for C projects.
 - [CMakeLists.txt](https://gist.github.com/San7o/25c16f1a069474581bda8b33aa5f8001): Modern Cmake template for C++ projects.
 - [windows-commands.ps1](https://gist.github.com/San7o/b4650e0b1be17cb9d1c8f853076165a7): Useful Microsoft Windows commands.
+- [k-means.py](https://gist.github.com/San7o/b648bbbe4f8da434d2d00e6e59a531c6): Implementation of k-means clustering in Python.
+- [scikit-sample.py](https://gist.github.com/San7o/f5948a04ddecd93ece67e19e66f48fa6): Example of using a ML model with scikit-learn.
+- [knn.c](https://gist.github.com/San7o/4bfe69a9e1eb251d5267d8b74ff73dda): Implementation of KNN for supervised learning classification
+  on a one-dimensional dataset in C.
+- [perceptron.c](https://gist.github.com/San7o/da2efc84eb3e7c8bdbefbd540c8cfbea): Implementation of a perceptron for binary
+  classification in C.
 
 ### Setup
 Custom configurations for my daily development setup and workflow.
