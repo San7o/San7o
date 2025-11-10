@@ -21,6 +21,8 @@ Get in contact with me:
       Click to view a list of my projects
  </summary>
 
+[really cool visualization](https://san7o.github.io/repo-graph/)
+
 ## [micro-headers](https://github.com/San7o/micro-headers)
 A collection of high-quality, configurable, header-only libraries written in C99. The libraries are designed to be highly reusable, simple to maintain with little to no dependencies, and easy to integrate in your projects. [website](https://san7o.github.io/micro-headers/)
 
@@ -90,6 +92,7 @@ Backlog of projects.
 - [fixmi](https://github.com/orgs/IS-FixMi/repositories): business management software using microservices.
   -  [documentation](https://github.com/IS-FixMi/FixMi)
   -  [root-project](https://github.com/IS-FixMi/fixmi-compose)
+- [repo-graph](https://github.com/San7o/repo-graph/): Visualize GitHub repositories through a graph based on their topics.
 - [elixir-blockchain](https://github.com/San7o/elixir-simple-bockchain): a simple blockchain library implemented in elixir.
 - [react-express-template](https://github.com/San7o/react-express-template): a meplate for web applications using node, express, typescript, react, tailwind, docker.
 - [webgl-3D-renderer](https://github.com/San7o/webgl-3D-renderer): a 3D renderer in WebGL and Angular
