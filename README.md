@@ -50,10 +50,10 @@ A collection of high-quality, configurable, header-only libraries written in C99
 ## (New) [micro-tools](https://github.com/San7o/micro-tools)
 A collection of useful tools for programmers to solve programmer problems. Mostly written in C99.
 
-- [micro-templating.c](https://github.com/San7o/micro-templating.c/): A simple tool to generate a file from a template, in ~200 lines of code
-- [micro-timerd](https://github.com/San7o/micro-timerd/): Client-server application to start, stop and list timers
+- [micro-templating.c](https://github.com/San7o/micro-templating.c/): generate a file from a template, in ~200 lines of code
+- [micro-timerd](https://github.com/San7o/micro-timerd/): client-server application to start, stop and list timers
 - [micro-sprite](https://github.com/San7o/micro-sprite): simple drawing tool.
-- [lkde-tool](https://github.com/San7o/lkde-tool): An useful tool to develop and test kernel patches and applications in multiple kernel branches, trees, architectures and configurations.
+- [lkde-tool](https://github.com/San7o/lkde-tool): develop and test kernel patches and applications in multiple kernel branches, trees, architectures and configurations.
 
 ## Highlights
 Some other interesting projects that you should check out.
@@ -81,11 +81,12 @@ Backlog of projects.
 - [opentelemetry-cpp-sample](https://github.com/San7o/opentelemetry-cpp-sample): sample C++ application with OpenTelemetry instrumentation to emit telemetry data
 - [linux-kernel-module](https://github.com/San7o/linux-kernel-module): hello world kernel module with a full developement setup using qemu
 - [micro-gl-sample](https://github.com/San7o/micro-gl-sample): simple setup project for OpenGL graphics.
-- [cosu!](https://github.com/San7o/cosu): A rhythm game written in C, (not yet fully) compatible with osu!mania maps.
+- [cosu!](https://github.com/San7o/cosu): a rhythm game written in C, (not yet fully) compatible with osu!mania maps.
+- [minipiano.c](https://github.com/San7o/minipiano.c): play the piano using sinewaves and your keyboard!
 - [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386.
 - [modern-cpp-template](https://github.com/San7o/modern-cpp-template): a template for c++ libraries
 - [parallel-computing-cpp](https://github.com/San7o/parallel-computing-cpp): MPI and OpenMP algorithms and benchmarks
-- [cycloidal-curves](https://github.com/San7o/cycloidal-curves/): Cycloidal curves interactive visualization. [website](https://san7o.github.io/cycloidal-curves/)
+- [cycloidal-curves](https://github.com/San7o/cycloidal-curves/): cycloidal curves interactive visualization. [website](https://san7o.github.io/cycloidal-curves/)
 - [fixmi](https://github.com/orgs/IS-FixMi/repositories): business management software using microservices.
   -  [documentation](https://github.com/IS-FixMi/FixMi)
   -  [root-project](https://github.com/IS-FixMi/fixmi-compose)
@@ -140,13 +141,14 @@ Code extracted from my other projects that can be easily reused, or implementati
   on a one-dimensional dataset in C.
 - [perceptron.c](https://gist.github.com/San7o/da2efc84eb3e7c8bdbefbd540c8cfbea): Implementation of a perceptron for binary
   classification in C.
+- [generate-debuginfo](https://gist.github.com/San7o/a85d3bd5796bc6b5a488fd6e660029ec): Separate debuginfo and executable in two different files.
 
 ### Setup
 Custom configurations for my daily development setup and workflow.
 
 - [.emacs.d](https://github.com/San7o/.emacs.d.git): my emacs configuration
 - [dwm](https://github.com/San7o/dwm.git): my fork of DWM and DWL
-- [init.lua](https://gist.github.com/San7o/2d5856a3c3de041091ee92d5488edf58): Simple Neovim configuration without too much bloat
+- [init.lua](https://gist.github.com/San7o/2d5856a3c3de041091ee92d5488edf58): simple Neovim configuration without too much bloat
 - [i3config](https://gist.github.com/San7o/63bfb7f49153ebabb3a98e44e47e1182): i3 configuration, I use it as a fallback
 - [lfs](https://github.com/San7o/lfs): my Linux From Scratch distribution
 - [mapkg](https://github.com/San7o/mapkg): my own packet manager
