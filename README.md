@@ -135,6 +135,8 @@ Code extracted from my other projects that can be easily reused, or implementati
 - [left_space.c](https://gist.github.com/San7o/b1161f85888bc09a995e1fb3f54f52da): Get number of separator charactes from the left of a string in C99.
 - [clear_screen.c](https://gist.github.com/San7o/0a7ab7492e521cb5decd0e4eac18b276):  Clear the terminal screen using ANSI control sequences.
 - [delta_time.c](https://gist.github.com/San7o/51807bdc9266241c76f15ac4247167db): Calculate the frame delta time and render a certain number of times per seconds in C99.
+- [time_sec.c](https://gist.github.com/San7o/dcf1373ecb1eaff9c6f70ec025d0fe90): Get the time in seconds in C.
+- [xorshift_rng.c](https://gist.github.com/San7o/5f45fe794f76bb451b134a9332a9d4f2): xorshift algorithm for generating pseudo random numbers.
 - [Makefile](https://gist.github.com/San7o/630a4c8a42ae5b914a4fe41b4f19e374): Simple Makefile template for C projects.
 - [CMakeLists.txt](https://gist.github.com/San7o/25c16f1a069474581bda8b33aa5f8001): Modern Cmake template for C++ projects.
 - [windows-commands.ps1](https://gist.github.com/San7o/b4650e0b1be17cb9d1c8f853076165a7): Useful Microsoft Windows commands.
