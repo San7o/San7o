@@ -31,6 +31,7 @@ A collection of high-quality, configurable, header-only libraries written in C99
 - [micro-draw.h](https://github.com/San7o/micro-draw.h): a 2D software renderer
   - Projects that use this renderer: [cosu](https://github.com/San7o/cosu), [cgis](https://github.com/San7o/cgis), [game-of-life](https://san7o.github.io/micro-draw.h/#canvas) (wasm)
 - [micro-lex.h](https://github.com/San7o/micro-lex.h): simple lexer for lisp-like languages, and others. See also [justlex-rs](https://github.com/San7o/justlex-rs) [crates.io](https://crates.io/crates/justlex)
+- [micro-arena.h](https://github.com/San7o/micro-arena.h/): memory allocator (first fit). It implements the common memory functions from stdlib.h.
 - [micro-flag.h](https://github.com/San7o/micro-flag.h/): tiny library to parse command line arguments
 - [micro-module.h](https://github.com/San7o/micro-module.h): define, load, and unload runtime modules / plugins with a simple C99 API
 - [micro-serde.h](https://github.com/San7o/micro-serde.h): serialization library for C99, in ~150 lines of code.
