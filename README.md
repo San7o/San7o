@@ -94,7 +94,8 @@ Backlog of projects.
 - [fixmi](https://github.com/orgs/IS-FixMi/repositories): business management software using microservices.
   -  [documentation](https://github.com/IS-FixMi/FixMi)
   -  [root-project](https://github.com/IS-FixMi/fixmi-compose)
-- [repo-graph](https://github.com/San7o/repo-graph/): Visualize GitHub repositories through a graph based on their topics.
+- [repo-graph](https://github.com/San7o/repo-graph/): visualize GitHub repositories through a graph based on their topics.
+- [go-chat-server](https://github.com/San7o/go-chat-server?tab=readme-ov-file): a server and client for a minimal text-based chat in Go.
 - [elixir-blockchain](https://github.com/San7o/elixir-simple-bockchain): a simple blockchain library implemented in elixir.
 - [react-express-template](https://github.com/San7o/react-express-template): a meplate for web applications using node, express, typescript, react, tailwind, docker.
 - [webgl-3D-renderer](https://github.com/San7o/webgl-3D-renderer): a 3D renderer in WebGL and Angular
