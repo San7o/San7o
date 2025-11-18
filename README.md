@@ -180,6 +180,7 @@ These are the libraries that I use the most in my projects and that I find incre
 - [SFML](https://github.com/SFML/SFML) (c++17): another great multimedia library, more ideomatic for C++
 - [csynth](https://github.com/leovandriel/csynth) (C):  A simple synth in C, very fun to explore the code, It is somewhat unusual and enlightening.
 - [luigi](https://github.com/nakst/luigi) (C): single header GUI framework in C. It is absurdly simple and well written, amazing read.
+- [nginx](https://github.com/nginx/nginx) (C): even if it is not a library, each source file is well divided from the others so that you can copy paste almost everything in your projects!
 
 ### Minor Contributions
 
