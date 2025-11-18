@@ -150,6 +150,9 @@ Code extracted from my other projects that can be easily reused, or implementati
 - [perceptron.c](https://gist.github.com/San7o/da2efc84eb3e7c8bdbefbd540c8cfbea): Implementation of a perceptron for binary
   classification in C.
 - [generate-debuginfo](https://gist.github.com/San7o/a85d3bd5796bc6b5a488fd6e660029ec): Separate debuginfo and executable in two different files.
+- [gcc-print-definitions](https://gist.github.com/San7o/4ebdc3d64a170278e463d71a3332cea7): Print all the #define symbols and their values with gcc or clang
+- [sha1.c](https://gist.github.com/San7o/10496ad588e3e956c145501f89d13886): sha1 implementation from nginx (src/core/ngx_sha1.c)
+- [md5.c](https://gist.github.com/San7o/d8803805c0829fb9cf208b4fcd0d6a63): md5 implementation from nginx (src/core/ngx_md5.c)
 
 ### Setup
 Custom configurations for my daily development setup and workflow.
