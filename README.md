@@ -2,7 +2,7 @@
 
 Hi,
 
-I am Giovanni, welcome to my github page. I am a [software developer](https://giovanni-diary.netlify.app/programming/notes/recreational-programming) focusing on [Linux](https://giovanni-diary.netlify.app/programming/linux/linux) system libraries and tooling, and a bit of everything else! [[CV](https://giovanni-diary.netlify.app/programming/cv)]
+I am Giovanni, welcome to my github page. I am a [software developer](https://giovanni-diary.netlify.app/programming/notes/recreational-programming) working on [Linux](https://giovanni-diary.netlify.app/programming/linux/linux) system libraries and tools, and a bit of everything else! [[CV](https://giovanni-diary.netlify.app/programming/cv)]
 
 Most of my open source software is hosted here on GitHub. I have a **blog**, more like a diary, where I write down my thoughts.
 Check It out:
