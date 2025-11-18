@@ -2,10 +2,9 @@
 
 Hi,
 
-I am Giovanni, welcome to my github page. Most of my programming projects are hosted here. I am an Italian [computer science](https://giovanni-diary.netlify.app/programming/programming) student and a [recreational programming](https://giovanni-diary.netlify.app/programming/notes/recreational-programming) fellow focusing on operating systems, [Linux](https://giovanni-diary.netlify.app/programming/linux/linux)
-system administration, cloud applications and security. [[CV](https://giovanni-diary.netlify.app/programming/cv)]
+I am Giovanni, welcome to my github page. I am an Italian [programmer](https://giovanni-diary.netlify.app/programming/notes/recreational-programming) focusing on [Linux](https://giovanni-diary.netlify.app/programming/linux/linux) system libraries and tooling, and a bit of everything else! [[CV](https://giovanni-diary.netlify.app/programming/cv)]
 
-I have a **blog**, more like a diary, where I write down my thoughts.
+Most of my programming projects are hosted here on GitHub. I have a **blog**, more like a diary, where I write down my thoughts.
 Check It out:
 
 [https://giovanni-diary.netlify.app/](https://giovanni-diary.netlify.app/)
@@ -18,7 +17,7 @@ Get in contact with me:
 
 <details>
  <summary>
-      Click to view a list of my projects
+      Click to view a list of my software (more than 100 projects!)
  </summary>
 
 [really cool visualization](https://san7o.github.io/repo-graph/)
