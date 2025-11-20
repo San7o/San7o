@@ -107,6 +107,7 @@ Backlog of projects.
 - [rust-pomodoro-timer](https://github.com/San7o/rust-pomodoro): TUI study timer written in Rust
 - [rust-music-player](https://github.com/San7o/rust-music-player): a TUI music player written in Rust
 - [broutines](https://github.com/San7o/broutines): goroutines and coroutines implemented in C
+- [stock-exchange-py](https://github.com/San7o/stock-exchange-py): simple logic implementation of a stock exchange in Python.
 - [chttps](https://github.com/San7o/chttps): https server in C with server-side rendering
 - [cchecker](https://github.com/San7o/cchecker): borrow checker in C++
 - [regEZ](https://github.com/San7o/regEZ): fully constexpr regex implementation in modern C++
