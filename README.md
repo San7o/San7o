@@ -88,6 +88,7 @@ Backlog of projects.
 - [minipiano.c](https://github.com/San7o/minipiano.c): play the piano using sinewaves and your keyboard!
 - [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386.
 - [modern-cpp-template](https://github.com/San7o/modern-cpp-template): a template for c++ libraries
+- [x509-examples](https://github.com/San7o/x509-examples): examples for generating and storing an RSA key pair and a self-signed x509 certificate (RFC 5980), in C and Go 
 - [parallel-computing-cpp](https://github.com/San7o/parallel-computing-cpp): MPI and OpenMP algorithms and benchmarks
 - [cycloidal-curves](https://github.com/San7o/cycloidal-curves/): cycloidal curves interactive visualization. [website](https://san7o.github.io/cycloidal-curves/)
 - [fixmi](https://github.com/orgs/IS-FixMi/repositories): business management software using microservices.
