@@ -1,10 +1,8 @@
 <h1 align="center">Giovanni Santini</h1>
 
-Hi,
+Hi, I am Giovanni.
 
-I am Giovanni, welcome to my github page. I am a [software developer](https://giovanni-diary.netlify.app/programming/notes/recreational-programming) working on [Linux](https://giovanni-diary.netlify.app/programming/linux/linux) system libraries and tools, and a bit of everything else! [[CV](https://giovanni-diary.netlify.app/programming/cv)]
-
-Most of my open source software is hosted here on GitHub.
+I am a [software developer](https://giovanni-diary.netlify.app/programming/notes/recreational-programming) working on [Linux](https://giovanni-diary.netlify.app/programming/linux/linux) system libraries and tools, and a bit of everything else! [[CV](https://giovanni-diary.netlify.app/programming/cv)]. Most of my open source software is hosted here on GitHub.
 
 Get in contact with me:
 
