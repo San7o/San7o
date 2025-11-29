@@ -141,6 +141,7 @@ Code extracted from my other projects that can be easily reused, or implementati
 - [yt-dl-mp3.sh](https://gist.github.com/San7o/8fcf11f588c049442968ae39a0b34248): Download mp3 music from youtube.
 - [k-means.py](https://gist.github.com/San7o/b648bbbe4f8da434d2d00e6e59a531c6): Implementation of k-means clustering in Python.
 - [scikit-sample.py](https://gist.github.com/San7o/f5948a04ddecd93ece67e19e66f48fa6): Example of using a ML model with scikit-learn.
+- [hello_world.asm](https://gist.github.com/San7o/f999651fa0f607dca7856d36c0362200): Hello world x86-64 assembly on Linux.
 - [knn.c](https://gist.github.com/San7o/4bfe69a9e1eb251d5267d8b74ff73dda): Implementation of KNN for supervised learning classification
   on a one-dimensional dataset in C.
 - [perceptron.c](https://gist.github.com/San7o/da2efc84eb3e7c8bdbefbd540c8cfbea): Implementation of a perceptron for binary
