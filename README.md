@@ -43,6 +43,7 @@ A collection of high-quality, configurable, header-only libraries written in C99
 
 Related projects:
 
+- [micro-style.css](https://github.com/San7o/micro-style.css/): minimal, simple, tunable style for your websites.
 - [micro-templating.c](https://github.com/San7o/micro-templating.c/): generate a file from a template, in ~200 lines of code
 - [micro-timerd](https://github.com/San7o/micro-timerd/): client-server application to start, stop and list timers
 - [micro-sprite](https://github.com/San7o/micro-sprite): simple drawing tool.
@@ -123,7 +124,6 @@ Code extracted from my other projects that can be easily reused, or implementati
 - [inet_server.c](https://gist.github.com/San7o/4af3f058cd1508f9779a310aef75b9c6): Create an inet server that reads data sent to it
 - [set_signals.c](https://gist.github.com/San7o/c933925bc8bc8beb493bc618c90e1cbf): Setup an handler for various POSIX signals.
 - [sdl_window.c](https://gist.github.com/San7o/b80ee8e26fecda3bfaa113b12be470c5): Create an SDL3 window and poll events.
-- [micro-style.css](https://gist.github.com/San7o/e56fc5299abbc7e21ba7a049b8078d5d): Very simple css style for minimalistic websites.
 - [mmap_file.c](https://gist.github.com/San7o/1c88efae81f499e5882d0f63104a228e): Read a file's contents using mmap, faster than read(2). Neat optimization on POSIX systems.
 - [traverse_dir.c](https://gist.github.com/San7o/270736ae4c9215aeee80d4593156c003): Traverse a directory recursively and call handle_file on each file.
 - [djb2.c](https://gist.github.com/San7o/e41c79a609aaf3385f133d309ec39922):  Simple hash function for strings.
