@@ -111,7 +111,7 @@ Projects showcasing how to use various technologies.
 - [risto89](https://github.com/San7o/risto89-fork): online tickets market in java
 - [ledger-board](https://github.com/San7o/ledger-board): highly scalable transaction producer/consumer app, built with Kubernetes, Kafka, Django, Angular, Nginx, Redis, Celery, Docker
 - [how-to-root-samsung-galaxy-j5](https://github.com/San7o/how-to-root-samsung-galaxy-j5): instructions to root a Samsung Galaxy J5
-- [hypr-nerd-gestures](https://github.com/San7o/hypr-nerd-gestures): control hyprland through hand gestures, using openCV.
+- [hypr-nerd-gestures](https://github.com/San7o/hypr-nerd-gestures): control hyprland through hand gestures, using openCV
 - [launchpad-app-launcher](https://github.com/San7o/launchpad-app-launcher): launch commands from a novation's launchpad
 - [modern-python-template](https://github.com/San7o/modern-python-template)
 - [youtube-minuature-generator](https://github.com/San7o/youtube-miniature-generator)
@@ -122,32 +122,34 @@ Code extracted from my other projects that can be easily reused, or implementati
 
 - [unix_server.c](https://gist.github.com/San7o/4a2cfa08783ab55c10f7af5c93401e28): Create an unix socket server that reads data sent to it
 - [inet_server.c](https://gist.github.com/San7o/4af3f058cd1508f9779a310aef75b9c6): Create an inet server that reads data sent to it
-- [set_signals.c](https://gist.github.com/San7o/c933925bc8bc8beb493bc618c90e1cbf): Setup an handler for various POSIX signals.
-- [sdl_window.c](https://gist.github.com/San7o/b80ee8e26fecda3bfaa113b12be470c5): Create an SDL3 window and poll events.
-- [mmap_file.c](https://gist.github.com/San7o/1c88efae81f499e5882d0f63104a228e): Read a file's contents using mmap, faster than read(2). Neat optimization on POSIX systems.
-- [traverse_dir.c](https://gist.github.com/San7o/270736ae4c9215aeee80d4593156c003): Traverse a directory recursively and call handle_file on each file.
-- [djb2.c](https://gist.github.com/San7o/e41c79a609aaf3385f133d309ec39922):  Simple hash function for strings.
-- [lcg.c](https://gist.github.com/San7o/f979a38a4746990da527041d62da2d71): LCG algorithm for fast pseudo random number generation.
-- [utils.h](https://gist.github.com/San7o/6660fde97f359b83040a4b762a978f14): Utility macros for C projects.
-- [mandelbrot.c](https://gist.github.com/San7o/2eea69c31a9f631253d2b9c72d9fe34a): Get the number of iterations of a point in the Mandelbrot set.
-- [left_space.c](https://gist.github.com/San7o/b1161f85888bc09a995e1fb3f54f52da): Get number of separator charactes from the left of a string in C99.
-- [clear_screen.c](https://gist.github.com/San7o/0a7ab7492e521cb5decd0e4eac18b276):  Clear the terminal screen using ANSI control sequences.
-- [delta_time.c](https://gist.github.com/San7o/51807bdc9266241c76f15ac4247167db): Calculate the frame delta time and render a certain number of times per seconds in C99.
-- [time_sec.c](https://gist.github.com/San7o/dcf1373ecb1eaff9c6f70ec025d0fe90): Get the time in seconds in C.
-- [xorshift_rng.c](https://gist.github.com/San7o/5f45fe794f76bb451b134a9332a9d4f2): xorshift algorithm for generating pseudo random numbers.
-- [Makefile](https://gist.github.com/San7o/630a4c8a42ae5b914a4fe41b4f19e374): Simple Makefile template for C projects.
-- [CMakeLists.txt](https://gist.github.com/San7o/25c16f1a069474581bda8b33aa5f8001): Modern Cmake template for C++ projects.
-- [windows-commands.ps1](https://gist.github.com/San7o/b4650e0b1be17cb9d1c8f853076165a7): Useful Microsoft Windows commands.
-- [yt-dl-mp3.sh](https://gist.github.com/San7o/8fcf11f588c049442968ae39a0b34248): Download mp3 music from youtube.
-- [k-means.py](https://gist.github.com/San7o/b648bbbe4f8da434d2d00e6e59a531c6): Implementation of k-means clustering in Python.
-- [scikit-sample.py](https://gist.github.com/San7o/f5948a04ddecd93ece67e19e66f48fa6): Example of using a ML model with scikit-learn.
-- [hello_world.asm](https://gist.github.com/San7o/f999651fa0f607dca7856d36c0362200): Hello world x86-64 assembly on Linux.
+- [set_signals.c](https://gist.github.com/San7o/c933925bc8bc8beb493bc618c90e1cbf): Setup an handler for various POSIX signals
+- [sdl_window.c](https://gist.github.com/San7o/b80ee8e26fecda3bfaa113b12be470c5): Create an SDL3 window and poll events
+- [mmap_file.c](https://gist.github.com/San7o/1c88efae81f499e5882d0f63104a228e): Read a file's contents using mmap, faster than read(2). Neat optimization on POSIX systems
+- [traverse_dir.c](https://gist.github.com/San7o/270736ae4c9215aeee80d4593156c003): Traverse a directory recursively and call handle_file on each file
+- [djb2.c](https://gist.github.com/San7o/e41c79a609aaf3385f133d309ec39922):  Simple hash function for strings
+- [lcg.c](https://gist.github.com/San7o/f979a38a4746990da527041d62da2d71): LCG algorithm for fast pseudo random number generation
+- [utils.h](https://gist.github.com/San7o/6660fde97f359b83040a4b762a978f14): Utility macros for C projects
+- [mandelbrot.c](https://gist.github.com/San7o/2eea69c31a9f631253d2b9c72d9fe34a): Get the number of iterations of a point in the Mandelbrot set
+- [left_space.c](https://gist.github.com/San7o/b1161f85888bc09a995e1fb3f54f52da): Get number of separator charactes from the left of a string in C99
+- [clear_screen.c](https://gist.github.com/San7o/0a7ab7492e521cb5decd0e4eac18b276):  Clear the terminal screen using ANSI control sequences
+- [delta_time.c](https://gist.github.com/San7o/51807bdc9266241c76f15ac4247167db): Calculate the frame delta time and render a certain number of times per seconds in C99
+- [time_sec.c](https://gist.github.com/San7o/dcf1373ecb1eaff9c6f70ec025d0fe90): Get the time in seconds in C
+- [xorshift_rng.c](https://gist.github.com/San7o/5f45fe794f76bb451b134a9332a9d4f2): xorshift algorithm for generating pseudo random numbers
+- [Makefile](https://gist.github.com/San7o/630a4c8a42ae5b914a4fe41b4f19e374): Simple Makefile template for C projects
+- [CMakeLists.txt](https://gist.github.com/San7o/25c16f1a069474581bda8b33aa5f8001): Modern Cmake template for C++ projects
+- [windows-commands.ps1](https://gist.github.com/San7o/b4650e0b1be17cb9d1c8f853076165a7): Useful Microsoft Windows commands
+- [yt-dl-mp3.sh](https://gist.github.com/San7o/8fcf11f588c049442968ae39a0b34248): Download mp3 music from youtube
+- [k-means.py](https://gist.github.com/San7o/b648bbbe4f8da434d2d00e6e59a531c6): Implementation of k-means clustering in Python
+- [scikit-sample.py](https://gist.github.com/San7o/f5948a04ddecd93ece67e19e66f48fa6): Example of using a ML model with scikit-learn
+- [hello_world.asm](https://gist.github.com/San7o/f999651fa0f607dca7856d36c0362200): Hello world x86-64 assembly on Linux
 - [knn.c](https://gist.github.com/San7o/4bfe69a9e1eb251d5267d8b74ff73dda): Implementation of KNN for supervised learning classification
-  on a one-dimensional dataset in C.
+  on a one-dimensional dataset in C
 - [perceptron.c](https://gist.github.com/San7o/da2efc84eb3e7c8bdbefbd540c8cfbea): Implementation of a perceptron for binary
-  classification in C.
-- [generate-debuginfo](https://gist.github.com/San7o/a85d3bd5796bc6b5a488fd6e660029ec): Separate debuginfo and executable in two different files.
+  classification in C
+- [generate-debuginfo](https://gist.github.com/San7o/a85d3bd5796bc6b5a488fd6e660029ec): Separate debuginfo and executable in two different files
 - [gcc-print-definitions](https://gist.github.com/San7o/4ebdc3d64a170278e463d71a3332cea7): Print all the #define symbols and their values with gcc or clang
+- [ohm-law](https://gist.github.com/San7o/6b722e3313c7086f9b89ad39e6e50f6e): Ohm's law cheatsheet
+- [calling-conventions-x86-32-64](https://gist.github.com/San7o/20c1e33cf9bd837a3487962fa76510fb): Calling conventions for i386 and i686
 - [sha1.c](https://gist.github.com/San7o/10496ad588e3e956c145501f89d13886): sha1 implementation from nginx (src/core/ngx_sha1.c)
 - [md5.c](https://gist.github.com/San7o/d8803805c0829fb9cf208b4fcd0d6a63): md5 implementation from nginx (src/core/ngx_md5.c)
 
