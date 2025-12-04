@@ -8,7 +8,7 @@ Get in contact with me:
 
 - preferably via email at [giovanni.santini@proton.me](mailto:giovanni.santini@proton.me),
 - on mastodon [@santo7@mastodon.social](https://mastodon.social/@santo7).
-- check out my [blog / diary](https://giovanni-diary.netlify.app/)
+- check out my [blog / diary](https://san7o.github.io/giovanni-diary/)
 - on IRC, I go by "santo_".
 
 Below you can find a list of some of my projects, you can also [click here to visualize them by category](https://san7o.github.io/repo-graph/):
@@ -139,6 +139,7 @@ Code extracted from my other projects that can be easily reused, or implementati
 - [CMakeLists.txt](https://gist.github.com/San7o/25c16f1a069474581bda8b33aa5f8001): Modern Cmake template for C++ projects
 - [windows-commands.ps1](https://gist.github.com/San7o/b4650e0b1be17cb9d1c8f853076165a7): Useful Microsoft Windows commands
 - [yt-dl-mp3.sh](https://gist.github.com/San7o/8fcf11f588c049442968ae39a0b34248): Download mp3 music from youtube
+- [replace-string.sh](https://gist.github.com/San7o/2bf2126df500a889957d3ceea204a60a): Replace all occurrences of a string in all files recursively.
 - [k-means.py](https://gist.github.com/San7o/b648bbbe4f8da434d2d00e6e59a531c6): Implementation of k-means clustering in Python
 - [scikit-sample.py](https://gist.github.com/San7o/f5948a04ddecd93ece67e19e66f48fa6): Example of using a ML model with scikit-learn
 - [hello_world.asm](https://gist.github.com/San7o/f999651fa0f607dca7856d36c0362200): Hello world x86-64 assembly on Linux
