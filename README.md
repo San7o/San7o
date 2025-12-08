@@ -43,13 +43,13 @@ A collection of high-quality, configurable, header-only libraries written in C99
 
 Related projects:
 
-- [micro-style.css](https://github.com/San7o/micro-style.css/): minimal, simple, tunable style for your websites.
+- [micro-style.css](https://github.com/San7o/micro-style.css/): minimal, simple, tunable style for your websites
+- [micro-website](https://github.com/San7o/micro-website): generate a static website from markdown files
 - [micro-templating.c](https://github.com/San7o/micro-templating.c/): generate a file from a template, in ~200 lines of code
 - [micro-timerd](https://github.com/San7o/micro-timerd/): client-server application to start, stop and list timers
 - [micro-sprite](https://github.com/San7o/micro-sprite): simple drawing tool.
 - [lkde-tool](https://github.com/San7o/lkde-tool): develop and test kernel patches and applications in multiple kernel branches, trees, architectures and configurations.
 - [mapkg](https://github.com/San7o/mapkg): my packet manager
-- [minipiano.c](https://github.com/San7o/minipiano.c): play the piano using sinewaves and your keyboard!
 
 ## Advanced projects
 
@@ -63,12 +63,12 @@ Related projects:
 - [kivebpf](https://github.com/San7o/kivebpf): eBPF-powered file access monitoring Kubernetes operator
   - [The Kibebpf website](https://san7o.github.io/kivebpf/): more documentation about the operator
 - [Baldo scanner](https://github.com/San7o/Baldo-Scanner): malware scanner daemon for linux using a kernel module
-- [fft.c](https://github.com/San7o/fft.c): Implementation of Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT) in C99, with a bonus cool music visualization.
 - [tenno-tl](https://github.com/San7o/tenno-tl): a partial re-implementation of the c++26 standard library
 
 ## Demos
 Projects showcasing how to use various technologies.
 
+- [fft.c](https://github.com/San7o/fft.c): implementation of Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT) in C99, with a bonus cool music visualization.
 - [ld-preload-sample](https://github.com/San7o/ld-preload-sample): sample LD_PRELOAD demonstration to replace libc functions
 - [ebpf-c-sample](https://github.com/San7o/ebpf-c-sample): sample project for an eBPF program + loader in C with libbpf and clang
 - [opentelemetry-cpp-sample](https://github.com/San7o/opentelemetry-cpp-sample): sample C++ application with OpenTelemetry instrumentation to emit telemetry data
@@ -81,6 +81,7 @@ Projects showcasing how to use various technologies.
 
 ## Misc
 
+- [minipiano.c](https://github.com/San7o/minipiano.c): play the piano using sinewaves and your keyboard!
 - [cosu!](https://github.com/San7o/cosu): a rhythm game written in C, (not yet fully) compatible with osu!mania maps.
 - [snakepp](https://github.com/San7o/snakepp): simple demo of snake in C++, using SFML
 - [Introduction-to-machine-learning](https://github.com/San7o/Introduction-to-machine-learning): useful notes for students studying for an introductionary course to Machine Learning, or to anyone interested in the subject
@@ -143,8 +144,9 @@ Code extracted from my other projects that can be easily reused, or implementati
 - [k-means.py](https://gist.github.com/San7o/b648bbbe4f8da434d2d00e6e59a531c6): Implementation of k-means clustering in Python
 - [scikit-sample.py](https://gist.github.com/San7o/f5948a04ddecd93ece67e19e66f48fa6): Example of using a ML model with scikit-learn
 - [hello_world.asm](https://gist.github.com/San7o/f999651fa0f607dca7856d36c0362200): Hello world x86-64 assembly on Linux
-- [knn.c](https://gist.github.com/San7o/4bfe69a9e1eb251d5267d8b74ff73dda): Implementation of KNN for supervised learning classification
-  on a one-dimensional dataset in C
+- [black-and-white-screen.glsl](https://gist.github.com/San7o/94481c7399ef7efde0a3f1f2f7ce91d2): Use picom and a glsl shader to render the screen black and white
+- [static-ip-over-ethernet](https://gist.github.com/San7o/ff86aa4143c7184c48e94a431580d00c): Set a static ip on two computers connected via ethernet so that they can communicate
+- [knn.c](https://gist.github.com/San7o/4bfe69a9e1eb251d5267d8b74ff73dda): Implementation of KNN for supervised learning classification on a one-dimensional dataset in C
 - [perceptron.c](https://gist.github.com/San7o/da2efc84eb3e7c8bdbefbd540c8cfbea): Implementation of a perceptron for binary
   classification in C
 - [generate-debuginfo](https://gist.github.com/San7o/a85d3bd5796bc6b5a488fd6e660029ec): Separate debuginfo and executable in two different files
