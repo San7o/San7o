@@ -47,6 +47,7 @@ Related projects:
 - [micro-website](https://github.com/San7o/micro-website): generate a static website from markdown files
 - [micro-templating.c](https://github.com/San7o/micro-templating.c/): generate a file from a template, in ~200 lines of code
 - [micro-timerd](https://github.com/San7o/micro-timerd/): client-server application to start, stop and list timers
+- [micro-audio.c](https://github.com/San7o/micro-audio.c/): tiny wrapper over miniaudio for managing audio sounds and streams
 - [micro-sprite](https://github.com/San7o/micro-sprite): simple drawing tool.
 - [lkde-tool](https://github.com/San7o/lkde-tool): develop and test kernel patches and applications in multiple kernel branches, trees, architectures and configurations.
 - [mapkg](https://github.com/San7o/mapkg): my packet manager
