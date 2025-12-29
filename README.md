@@ -50,6 +50,7 @@ Related projects:
 - [micro-audio.c](https://github.com/San7o/micro-audio.c/): tiny wrapper over miniaudio for managing audio sounds and streams
 - [micro-sprite](https://github.com/San7o/micro-sprite): simple drawing tool.
 - [lkde-tool](https://github.com/San7o/lkde-tool): develop and test kernel patches and applications in multiple kernel branches, trees, architectures and configurations.
+- [xorcrypt.rs](https://github.com/San7o/xorcrypt.rs): encrypt / decrypt files with XOR encryption
 - [mapkg](https://github.com/San7o/mapkg): my packet manager
 
 ## Advanced projects
@@ -57,12 +58,12 @@ Related projects:
 - [Brenta Engine](https://github.com/San7o/Brenta-Engine): a 3D renderer and game engine in modern C++, with a custom ECS framework. [website](https://san7o.github.io/brenta-engine-documentation/v1.1/)
   - Satellite projects:
     - [valfuzz](https://github.com/San7o/valFuzz): modern testing and fuzzing library. [website](https://san7o.github.io/brenta-engine-documentation/valfuzz/v1.0/)
-    - [oak](https://github.com/San7o/oak): a feature-rich thread-safe C++23 logger library. [website](https://san7o.github.io/brenta-engine-documentation/oak/v1.0/)
     - [viotecs](https://github.com/San7o/viotecs): the engine's ECS. [website](https://san7o.github.io/brenta-engine-documentation/viotecs/v1.0/)
-- [haplolang](https://github.com/San7o/haplolang): a Lisp-like, s-expression based, imperative, strongly typed programming language
-  - [The Design and Implementation of Haplolang](https://san7o.github.io/haplolang/): my notes after implementing the language
+    - [oak](https://github.com/San7o/oak): a feature-rich thread-safe C++23 logger library. [website](https://san7o.github.io/brenta-engine-documentation/oak/v1.0/)
 - [kivebpf](https://github.com/San7o/kivebpf): eBPF-powered file access monitoring Kubernetes operator
   - [The Kibebpf website](https://san7o.github.io/kivebpf/): more documentation about the operator
+- [haplolang](https://github.com/San7o/haplolang): a Lisp-like, s-expression based, imperative, strongly typed programming language
+  - [The Design and Implementation of Haplolang](https://san7o.github.io/haplolang/): my notes after implementing the language
 - [Baldo scanner](https://github.com/San7o/Baldo-Scanner): malware scanner daemon for linux using a kernel module
 - [tenno-tl](https://github.com/San7o/tenno-tl): a partial re-implementation of the c++26 standard library
 
@@ -70,6 +71,7 @@ Related projects:
 Projects showcasing how to use various technologies.
 
 - [fft.c](https://github.com/San7o/fft.c): implementation of Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT) in C99, with a bonus cool music visualization.
+- [povOS](https://github.com/San7o/povOS): x86_64 bare metal playground and bootloader 
 - [ld-preload-sample](https://github.com/San7o/ld-preload-sample): sample LD_PRELOAD demonstration to replace libc functions
 - [ebpf-c-sample](https://github.com/San7o/ebpf-c-sample): sample project for an eBPF program + loader in C with libbpf and clang
 - [opentelemetry-cpp-sample](https://github.com/San7o/opentelemetry-cpp-sample): sample C++ application with OpenTelemetry instrumentation to emit telemetry data
