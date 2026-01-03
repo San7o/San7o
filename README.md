@@ -186,6 +186,7 @@ These are the libraries that I use the most in my projects and that I find incre
 - [miniaudio](https://github.com/mackron/miniaudio) (C): my goto library to play and mix audio
 - [SFML](https://github.com/SFML/SFML) (c++17): another great multimedia library, more ideomatic for C++
 - [moviepy](https://zulko.github.io/moviepy/index.html) (Python): edit videos from python
+- [wren](https://github.com/wren-lang/wren) (C): the most elegantly implemented programming language I have ever seen
 
 ### Minor Contributions
 
