@@ -164,6 +164,7 @@ Custom configurations for my daily development setup and workflow.
 
 - [.emacs.d](https://github.com/San7o/.emacs.d.git): my emacs configuration
 - [dwm](https://github.com/San7o/dwm.git): my fork of DWM and DWL
+- [home-lab](https://github.com/San7o/home-lab): home lab experiments
 - [init.lua](https://gist.github.com/San7o/2d5856a3c3de041091ee92d5488edf58): simple Neovim configuration without too much bloat
 - [i3config](https://gist.github.com/San7o/63bfb7f49153ebabb3a98e44e47e1182): i3 configuration, I use it as a fallback
 - [lfs](https://github.com/San7o/lfs): my Linux From Scratch distribution
