@@ -8,7 +8,7 @@ Get in contact with me:
 
 - preferably via email at [giovanni.santini@proton.me](mailto:giovanni.santini@proton.me),
 - on mastodon [@santo7@mastodon.social](https://mastodon.social/@santo7).
-- check out my [blog / diary](https://san7o.github.io/giovanni-diary/)
+- check out my [blog](https://san7o.github.io/giovanni-diary/blog.html)
 - on IRC, I go by "santo_".
 
 Below you can find a list of some of my projects, you can also [click here to visualize them by category](https://san7o.github.io/repo-graph/):
@@ -164,7 +164,7 @@ Custom configurations for my daily development setup and workflow.
 
 - [.emacs.d](https://github.com/San7o/.emacs.d.git): my emacs configuration
 - [dwm](https://github.com/San7o/dwm.git): my fork of DWM and DWL
-- [home-lab](https://github.com/San7o/home-lab): home lab experiments
+- [home-lab](https://github.com/San7o/home-lab): home lab experiments, with lots of useful notes
 - [init.lua](https://gist.github.com/San7o/2d5856a3c3de041091ee92d5488edf58): simple Neovim configuration without too much bloat
 - [i3config](https://gist.github.com/San7o/63bfb7f49153ebabb3a98e44e47e1182): i3 configuration, I use it as a fallback
 - [lfs](https://github.com/San7o/lfs): my Linux From Scratch distribution
