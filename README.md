@@ -196,5 +196,7 @@ Minor contributions all over the interweb:
 - https://github.com/riscv/riscv-opcodes/pull/375: Correct parse.py example
 - https://github.com/ColleagueRiley/RGFW/pull/329: fix example program
 
+> “What I cannot create, I do not understand.” – Richard Feynman
+
 </details>
 
