@@ -15,7 +15,7 @@ Below you can find a list of some of my projects, you can also [click here to vi
 
 ## Highlights
 
-- [Brenta Engine](https://github.com/San7o/Brenta-Engine): a 3D renderer and game engine in modern C++, with a custom ECS framework. [website](https://san7o.github.io/brenta-engine-documentation/v1.1/)
+- [Brenta Engine](https://github.com/San7o/Brenta-Engine): a 3D renderer and game engine in modern C++, with a custom ECS framework. [website](https://san7o.github.io/Brenta-Engine/)
   - Satellite projects:
     - [valfuzz](https://github.com/San7o/valFuzz): modern testing and fuzzing library. [website](https://san7o.github.io/brenta-engine-documentation/valfuzz/v1.0/)
     - [viotecs](https://github.com/San7o/viotecs): the engine's ECS. [website](https://san7o.github.io/brenta-engine-documentation/viotecs/v1.0/)
