@@ -4,7 +4,7 @@ Hi, I am Giovanni.
 
 I am a [hobbyist](https://giovanni-diary.netlify.app/programming/notes/recreational-programming) operating system and game engine developer, and a bit of everything else! [[CV](https://giovanni-diary.netlify.app/programming/cv)]. Most of my open source software is hosted here on GitHub.
 
-Professionally I fall in roles like system engineer / designer / administrator. Get in contact with me:
+Professionally I fall in roles like system engineer / designer / administrator also anything linux-related. Get in contact with me:
 
 - preferably via email at [giovanni.santini@proton.me](mailto:giovanni.santini@proton.me),
 - on mastodon [@santo7@mastodon.social](https://mastodon.social/@santo7).
