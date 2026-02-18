@@ -22,10 +22,10 @@ Below you can find a list of some of my projects, you can also [click here to vi
     - [oak](https://github.com/San7o/oak): a feature-rich thread-safe C++23 logger library. [website](https://san7o.github.io/brenta-engine-documentation/oak/v1.0/)
 - [kivebpf](https://github.com/San7o/kivebpf): eBPF-powered file access monitoring Kubernetes operator
   - [The Kibebpf website](https://san7o.github.io/kivebpf/): more documentation about the operator
+- [Baldo scanner](https://github.com/San7o/Baldo-Scanner): malware scanner daemon for linux using a kernel module
 - [haplolang](https://github.com/San7o/haplolang): a Lisp-like, s-expression based, imperative, strongly typed programming language
   - [The Design and Implementation of Haplolang](https://san7o.github.io/haplolang/): my notes after implementing the language
-- [Baldo scanner](https://github.com/San7o/Baldo-Scanner): malware scanner daemon for linux using a kernel module
-- [tenno-tl](https://github.com/San7o/tenno-tl): a partial re-implementation of the c++26 standard library
+- [povOS](https://github.com/San7o/povOS): x86_64 bare metal playground and bootloader 
 
 ## [micro-headers](https://github.com/San7o/micro-headers)
 
@@ -71,9 +71,9 @@ Related projects:
 Projects showcasing how to use various technologies.
 
 - [fft.c](https://github.com/San7o/fft.c): implementation of Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT) in C99, with a bonus cool music visualization.
-- [povOS](https://github.com/San7o/povOS): x86_64 bare metal playground and bootloader 
 - [ld-preload-sample](https://github.com/San7o/ld-preload-sample): sample LD_PRELOAD demonstration to replace libc functions
 - [ebpf-c-sample](https://github.com/San7o/ebpf-c-sample): sample project for an eBPF program + loader in C with libbpf and clang
+- [raytracer](https://github.com/San7o/ray-tracer): a simple raytracer
 - [opentelemetry-cpp-sample](https://github.com/San7o/opentelemetry-cpp-sample): sample C++ application with OpenTelemetry instrumentation to emit telemetry data
 - [linux-kernel-module](https://github.com/San7o/linux-kernel-module): hello world kernel module with a full developement setup using qemu
 - [micro-gl-sample](https://github.com/San7o/micro-gl-sample): simple setup project for OpenGL graphics.
@@ -84,6 +84,7 @@ Projects showcasing how to use various technologies.
 
 ## Misc
 
+- [tenno-tl](https://github.com/San7o/tenno-tl): a partial re-implementation of the c++26 standard library
 - [minipiano.c](https://github.com/San7o/minipiano.c): play the piano using sinewaves and your keyboard!
 - [cosu!](https://github.com/San7o/cosu): a rhythm game written in C, (not yet fully) compatible with osu!mania maps.
 - [snakepp](https://github.com/San7o/snakepp): simple demo of snake in C++, using SFML
