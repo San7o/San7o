@@ -17,9 +17,9 @@ Below you can find a list of some of my projects, you can also [click here to vi
 
 - [Brenta Engine](https://github.com/San7o/Brenta-Engine): a 3D renderer and game engine in modern C++, with a custom ECS framework. [website](https://san7o.github.io/Brenta-Engine/)
   - Satellite projects:
-    - [valfuzz](https://github.com/San7o/valFuzz): modern testing and fuzzing library. [website](https://san7o.github.io/brenta-engine-documentation/valfuzz/v1.0/)
-    - [viotecs](https://github.com/San7o/viotecs): the engine's ECS. [website](https://san7o.github.io/brenta-engine-documentation/viotecs/v1.0/)
-    - [oak](https://github.com/San7o/oak): a feature-rich thread-safe C++23 logger library. [website](https://san7o.github.io/brenta-engine-documentation/oak/v1.0/)
+    - [valfuzz](https://github.com/San7o/valFuzz): modern testing and fuzzing library. [website](https://san7o.github.io/valFuzz/)
+    - [viotecs](https://github.com/San7o/viotecs): the engine's ECS. [website](https://san7o.github.io/viotecs/)
+    - [oak](https://github.com/San7o/oak): a feature-rich thread-safe C++23 logger library. [website](https://san7o.github.io/oak/)
 - [kivebpf](https://github.com/San7o/kivebpf): eBPF-powered file access monitoring Kubernetes operator
   - [The Kibebpf website](https://san7o.github.io/kivebpf/): more documentation about the operator
 - [Baldo scanner](https://github.com/San7o/Baldo-Scanner): malware scanner daemon for linux using a kernel module
