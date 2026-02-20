@@ -74,13 +74,15 @@ Projects showcasing how to use various technologies.
 - [ld-preload-sample](https://github.com/San7o/ld-preload-sample): sample LD_PRELOAD demonstration to replace libc functions
 - [ebpf-c-sample](https://github.com/San7o/ebpf-c-sample): sample project for an eBPF program + loader in C with libbpf and clang
 - [raytracer](https://github.com/San7o/ray-tracer): a simple raytracer
+- [rustemu](https://github.com/San7o/rustemu/): KVM virtual machine example
+- [rust-c-wrapper](https://github.com/San7o/rust-c-wrapper/): how to create a wrapper of a C library in Rust. 
 - [opentelemetry-cpp-sample](https://github.com/San7o/opentelemetry-cpp-sample): sample C++ application with OpenTelemetry instrumentation to emit telemetry data
 - [linux-kernel-module](https://github.com/San7o/linux-kernel-module): hello world kernel module with a full developement setup using qemu
-- [micro-gl-sample](https://github.com/San7o/micro-gl-sample): simple setup project for OpenGL graphics.
+- [micro-gl-sample](https://github.com/San7o/micro-gl-sample): simple setup project for OpenGL graphics
 - [x509-examples](https://github.com/San7o/x509-examples): examples for generating and storing an RSA key pair and a self-signed x509 certificate (RFC 5980), in C and Go
 - [go-chat-server](https://github.com/San7o/go-chat-server?tab=readme-ov-file): a server and client for a minimal text-based chat in Go
 - [elixir-blockchain](https://github.com/San7o/elixir-simple-bockchain): a simple blockchain library implemented in elixir.
-- [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386.
+- [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386
 
 ## Misc
 
