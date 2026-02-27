@@ -43,7 +43,7 @@ A collection of high-quality, configurable, header-only libraries written in C99
 - [micro-serde.h](https://github.com/San7o/micro-serde.h): serialization library for C99, in ~150 lines of code.
 - [micro-bench.h](https://github.com/San7o/micro-bench.h): micro benchmarking library
 - [micro-conf.h](https://github.com/San7o/micro-conf.h): library to parse config files
-- [micro-fswatcher.h](https://github.com/San7o/micro-fswathcer.h): listen to events in multiple files on the filesystem
+- [micro-fswatcher.h](https://github.com/San7o/micro-fswatcher.h): listen to events in multiple files on the filesystem
 - [micro-hash.h](https://github.com/San7o/micro-hash.h): quick and dirty hash functions in C99, with some benchmarks
 - [micro-la.h]( https://github.com/San7o/micro-la.h.git): linear algebra types and functions
 - [hll.h](https://github.com/San7o/hll.h): configurable, header-only implementation of HyperLogLog, used for approximating the cardinality of large multisets
