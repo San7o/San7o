@@ -17,9 +17,10 @@ Below you can find a list of some of my projects, you can also [click here to vi
 
 - [Brenta Engine](https://github.com/San7o/Brenta-Engine): a 3D renderer and game engine in modern C++, with a custom ECS framework. [website](https://san7o.github.io/Brenta-Engine/)
   - Satellite projects:
-    - [valfuzz](https://github.com/San7o/valFuzz): modern testing and fuzzing library. [website](https://san7o.github.io/valFuzz/)
-    - [viotecs](https://github.com/San7o/viotecs): the engine's ECS. [website](https://san7o.github.io/viotecs/)
     - [oak](https://github.com/San7o/oak): a feature-rich thread-safe C++23 logger library. [website](https://san7o.github.io/oak/)
+    - [viotecs](https://github.com/San7o/viotecs): the engine's ECS. [website](https://san7o.github.io/viotecs/)
+    - [tenno-tl](https://github.com/San7o/tenno-tl): custom standard library
+    - [valfuzz](https://github.com/San7o/valFuzz): modern testing and fuzzing library. [website](https://san7o.github.io/valFuzz/)
 - [kivebpf](https://github.com/San7o/kivebpf): eBPF-powered file access monitoring Kubernetes operator
   - [The Kibebpf website](https://san7o.github.io/kivebpf/): more documentation about the operator
 - [Baldo scanner](https://github.com/San7o/Baldo-Scanner): malware scanner daemon for linux using a kernel module
@@ -42,6 +43,7 @@ A collection of high-quality, configurable, header-only libraries written in C99
 - [micro-serde.h](https://github.com/San7o/micro-serde.h): serialization library for C99, in ~150 lines of code.
 - [micro-bench.h](https://github.com/San7o/micro-bench.h): micro benchmarking library
 - [micro-conf.h](https://github.com/San7o/micro-conf.h): library to parse config files
+- [micro-fswatcher.h](https://github.com/San7o/micro-fswathcer.h): listen to events in multiple files on the filesystem
 - [micro-hash.h](https://github.com/San7o/micro-hash.h): quick and dirty hash functions in C99, with some benchmarks
 - [micro-la.h]( https://github.com/San7o/micro-la.h.git): linear algebra types and functions
 - [hll.h](https://github.com/San7o/hll.h): configurable, header-only implementation of HyperLogLog, used for approximating the cardinality of large multisets
@@ -75,18 +77,20 @@ Projects showcasing how to use various technologies.
 - [ebpf-c-sample](https://github.com/San7o/ebpf-c-sample): sample project for an eBPF program + loader in C with libbpf and clang
 - [raytracer](https://github.com/San7o/ray-tracer): a simple raytracer
 - [rustemu](https://github.com/San7o/rustemu/): KVM virtual machine example
-- [rust-c-wrapper](https://github.com/San7o/rust-c-wrapper/): how to create a wrapper of a C library in Rust. 
+- [rust-c-wrapper](https://github.com/San7o/rust-c-wrapper/): how to create a wrapper of a C library in Rust
 - [opentelemetry-cpp-sample](https://github.com/San7o/opentelemetry-cpp-sample): sample C++ application with OpenTelemetry instrumentation to emit telemetry data
 - [linux-kernel-module](https://github.com/San7o/linux-kernel-module): hello world kernel module with a full developement setup using qemu
+- [linux-kprobe-example](https://github.com/San7o/linux-kprobe-example): example kernel module that registers a kprobe on a syscall
+- [linux-tracepoint-example](https://github.com/San7o/linux-tracepoint-example): example kernel module registering a tracepoint
+- [linux-perf-event-example](https://github.com/San7o/linux-perf-event-example): example kernel module registering a software perf event through a Performance Monitor Unit (PMU)
 - [micro-gl-sample](https://github.com/San7o/micro-gl-sample): simple setup project for OpenGL graphics
 - [x509-examples](https://github.com/San7o/x509-examples): examples for generating and storing an RSA key pair and a self-signed x509 certificate (RFC 5980), in C and Go
 - [go-chat-server](https://github.com/San7o/go-chat-server?tab=readme-ov-file): a server and client for a minimal text-based chat in Go
-- [elixir-blockchain](https://github.com/San7o/elixir-simple-bockchain): a simple blockchain library implemented in elixir.
+- [elixir-blockchain](https://github.com/San7o/elixir-simple-bockchain): a simple blockchain library implemented in elixir
 - [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386
 
 ## Misc
 
-- [tenno-tl](https://github.com/San7o/tenno-tl): a partial re-implementation of the c++26 standard library
 - [minipiano.c](https://github.com/San7o/minipiano.c): play the piano using sinewaves and your keyboard!
 - [cosu!](https://github.com/San7o/cosu): a rhythm game written in C, (not yet fully) compatible with osu!mania maps.
 - [snakepp](https://github.com/San7o/snakepp): simple demo of snake in C++, using SFML
