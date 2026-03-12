@@ -21,6 +21,7 @@ Below you can find a list of some of my projects, you can also [click here to vi
     - [viotecs](https://github.com/San7o/viotecs): the engine's ECS. [website](https://san7o.github.io/viotecs/)
     - [tenno-tl](https://github.com/San7o/tenno-tl): custom standard library
     - [valfuzz](https://github.com/San7o/valFuzz): modern testing and fuzzing library. [website](https://san7o.github.io/valFuzz/)
+- [micro-engine.h](https://github.com/San7o/micro-engine.h): micro header-only, portable game engine in C99. [website](https://san7o.github.io/micro-engine.h/)
 - [kivebpf](https://github.com/San7o/kivebpf): eBPF-powered file access monitoring Kubernetes operator
   - [The Kibebpf website](https://san7o.github.io/kivebpf/): more documentation about the operator
 - [Baldo scanner](https://github.com/San7o/Baldo-Scanner): malware scanner daemon for linux using a kernel module
@@ -163,6 +164,7 @@ Code extracted from my other projects that can be easily reused, or implementati
 - [gcc-print-definitions](https://gist.github.com/San7o/4ebdc3d64a170278e463d71a3332cea7): Print all the #define symbols and their values with gcc or clang
 - [ohm-law](https://gist.github.com/San7o/6b722e3313c7086f9b89ad39e6e50f6e): Ohm's law cheatsheet
 - [calling-conventions-x86-32-64](https://gist.github.com/San7o/20c1e33cf9bd837a3487962fa76510fb): Calling conventions for i386 and i686
+- [ffi_wasm_c_js.md](https://gist.github.com/San7o/7d351d73abf15944d2a96a2e30493ff2): ffi C to JS and JS to C using wasm 
 - [sha1.c](https://gist.github.com/San7o/10496ad588e3e956c145501f89d13886): sha1 implementation from nginx (src/core/ngx_sha1.c)
 - [md5.c](https://gist.github.com/San7o/d8803805c0829fb9cf208b4fcd0d6a63): md5 implementation from nginx (src/core/ngx_md5.c)
 
