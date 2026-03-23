@@ -15,19 +15,20 @@ Below you can find a list of some of my projects, you can also [click here to vi
 
 ## Highlights
 
-- [Brenta Engine](https://github.com/San7o/Brenta-Engine): a 3D renderer and game engine in modern C++, with a custom ECS framework. [website](https://san7o.github.io/Brenta-Engine/)
-  - Satellite projects:
+- [Brenta Engine](https://github.com/San7o/Brenta-Engine): a 3D renderer and game engine in modern C++, with a custom ECS framework [website](https://san7o.github.io/Brenta-Engine/).
+  Satellite projects:
     - [oak](https://github.com/San7o/oak): a feature-rich thread-safe C++23 logger library. [website](https://san7o.github.io/oak/)
-    - [viotecs](https://github.com/San7o/viotecs): the engine's ECS. [website](https://san7o.github.io/viotecs/)
-    - [tenno-tl](https://github.com/San7o/tenno-tl): custom standard library
+    - [viotecs](https://github.com/San7o/viotecs): entity component system library. [website](https://san7o.github.io/viotecs/)
+    - [tenno-tl](https://github.com/San7o/tenno-tl): custom standard library.
     - [valfuzz](https://github.com/San7o/valFuzz): modern testing and fuzzing library. [website](https://san7o.github.io/valFuzz/)
+    - [json-please](https://github.com/San7o/json-please): json serializer-deserializer library
 - [micro-engine.h](https://github.com/San7o/micro-engine.h): micro header-only, portable game engine in C99. [website](https://san7o.github.io/micro-engine.h/)
 - [kivebpf](https://github.com/San7o/kivebpf): eBPF-powered file access monitoring Kubernetes operator
   - [The Kibebpf website](https://san7o.github.io/kivebpf/): more documentation about the operator
 - [Baldo scanner](https://github.com/San7o/Baldo-Scanner): malware scanner daemon for linux using a kernel module
+- [povOS](https://github.com/San7o/povOS): x86_64 bare metal playground and bootloader 
 - [haplolang](https://github.com/San7o/haplolang): a Lisp-like, s-expression based, imperative, strongly typed programming language
   - [The Design and Implementation of Haplolang](https://san7o.github.io/haplolang/): my notes after implementing the language
-- [povOS](https://github.com/San7o/povOS): x86_64 bare metal playground and bootloader 
 
 ## [micro-headers](https://github.com/San7o/micro-headers)
 
@@ -73,9 +74,11 @@ Related projects:
 ## Demos
 Projects showcasing how to use various technologies.
 
+- [hello-pico2](https://github.com/San7o/hello-pico2): lots of examples and projects with the Raspberry Pi Pico 2.
 - [fft.c](https://github.com/San7o/fft.c): implementation of Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT) in C99, with a bonus cool music visualization.
 - [ld-preload-sample](https://github.com/San7o/ld-preload-sample): sample LD_PRELOAD demonstration to replace libc functions
 - [ebpf-c-sample](https://github.com/San7o/ebpf-c-sample): sample project for an eBPF program + loader in C with libbpf and clang
+- [example-lua-binings](https://github.com/San7o/example-lua-bindings): example project for creating bindings between Lua and C/C++.
 - [raytracer](https://github.com/San7o/ray-tracer): a simple raytracer
 - [rustemu](https://github.com/San7o/rustemu/): KVM virtual machine example
 - [rust-c-wrapper](https://github.com/San7o/rust-c-wrapper/): how to create a wrapper of a C library in Rust
@@ -88,7 +91,7 @@ Projects showcasing how to use various technologies.
 - [x509-examples](https://github.com/San7o/x509-examples): examples for generating and storing an RSA key pair and a self-signed x509 certificate (RFC 5980), in C and Go
 - [go-chat-server](https://github.com/San7o/go-chat-server?tab=readme-ov-file): a server and client for a minimal text-based chat in Go
 - [elixir-blockchain](https://github.com/San7o/elixir-simple-bockchain): a simple blockchain library implemented in elixir
-- [santOS](https://github.com/San7o/santOS): a general purpose microkernel for i386
+- [pi2-oscilloscope](https://github.com/San7o/pi2-oscilloscope.git): Raspberry Pi Pico 2 based Oscilloscope 
 
 ## Misc
 
