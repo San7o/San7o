@@ -2,16 +2,18 @@
 
 Hi, I am Giovanni.
 
-I am a [hobbyist](https://giovanni-diary.netlify.app/programming/notes/recreational-programming) operating system and game engine developer, and a bit of everything else! [[CV](https://giovanni-diary.netlify.app/programming/cv)]. Most of my open source software is hosted here on GitHub.
+I am a [hobbyist](https://giovanni-diary.netlify.app/programming/notes/recreational-programming) operating system and game engine developer, and a bit of everything else! [[CV](https://giovanni-diary.netlify.app/programming/cv)].
 
-Professionally I fall in roles like system engineer / designer / administrator also anything linux-related. Get in contact with me:
+Get in contact with me:
 
 - preferably via email at [giovanni.santini@proton.me](mailto:giovanni.santini@proton.me),
 - on mastodon [@santo7@mastodon.social](https://mastodon.social/@santo7).
 - check out my [blog](https://san7o.github.io/giovanni-diary/blog.html)
 - on IRC, I go by "santo_".
 
-Below you can find a list of some of my projects, you can also [click here to visualize them by category](https://san7o.github.io/repo-graph/):
+Below you can find a list of some of my projects, you can also [click here to visualize them by category](https://san7o.github.io/repo-graph/). Here is a very high high level overview of how my projects are structured:
+
+![](./projects-overview.png)
 
 ## Highlights
 
