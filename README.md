@@ -2,7 +2,7 @@
 
 Hi, I am Giovanni.
 
-I want to rewrite the entire software stack from scratch, I am
+I am rewriting the entire software stack from scratch, I am
 particularly interested in operating systems and game engines.
 
 Get in contact with me:
