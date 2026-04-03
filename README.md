@@ -2,7 +2,8 @@
 
 Hi, I am Giovanni.
 
-I am a [hobbyist](https://giovanni-diary.netlify.app/programming/notes/recreational-programming) operating system and game engine developer, and a bit of everything else! [[CV](https://giovanni-diary.netlify.app/programming/cv)].
+I want to rewrite the entire software stack from scratch, I am
+particularly interested in operating systems and game engines.
 
 Get in contact with me:
 
