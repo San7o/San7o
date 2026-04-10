@@ -104,7 +104,6 @@ Projects showcasing how to use various technologies.
 - [pi2-oscilloscope](https://github.com/San7o/pi2-oscilloscope.git): Raspberry Pi Pico 2 based Oscilloscope
 - [hello-stm32-blue-pill](https://github.com/San7o/hello-stm32-blue-pill): example projects for the STM32 "Blue Pill" (private for now)
 - [hello-esp32](https://github.com/San7o/hello-esp32):  Example projects for the ESP32 (private for now)
-- [pi-pico2-freeRTOS]():
 
 ## Misc
 
