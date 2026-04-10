@@ -26,10 +26,10 @@ Below you can find a list of some of my projects, you can also [click here to vi
     - [valfuzz](https://github.com/San7o/valFuzz): modern testing and fuzzing library. [website](https://san7o.github.io/valFuzz/)
     - [json-please](https://github.com/San7o/json-please): json serializer-deserializer library
 - [micro-engine.h](https://github.com/San7o/micro-engine.h): micro header-only, portable game engine in C99. [website](https://san7o.github.io/micro-engine.h/)
+- [povOS](https://github.com/San7o/povOS): povOS is an operating system for an IBM-compatible PC using the x86_64 architecture. Supports virtual memory, multitasking and some drivers, with a custom bootloader.
 - [kivebpf](https://github.com/San7o/kivebpf): eBPF-powered file access monitoring Kubernetes operator
   - [The Kibebpf website](https://san7o.github.io/kivebpf/): more documentation about the operator
 - [Baldo scanner](https://github.com/San7o/Baldo-Scanner): malware scanner daemon for linux using a kernel module
-- [povOS](https://github.com/San7o/povOS): x86_64 bare metal playground and bootloader 
 - [haplolang](https://github.com/San7o/haplolang): a Lisp-like, s-expression based, imperative, strongly typed programming language
   - [The Design and Implementation of Haplolang](https://san7o.github.io/haplolang/): my notes after implementing the language
 
