@@ -77,7 +77,6 @@ Related projects:
 ## Demos
 Projects showcasing how to use various technologies.
 
-- [hello-pico2](https://github.com/San7o/hello-pico2): lots of examples and projects with the Raspberry Pi Pico 2.
 - [fft.c](https://github.com/San7o/fft.c): implementation of Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT) in C99, with a bonus cool music visualization.
 - [ld-preload-sample](https://github.com/San7o/ld-preload-sample): sample LD_PRELOAD demonstration to replace libc functions
 - [ebpf-c-sample](https://github.com/San7o/ebpf-c-sample): sample project for an eBPF program + loader in C with libbpf and clang
@@ -94,7 +93,18 @@ Projects showcasing how to use various technologies.
 - [x509-examples](https://github.com/San7o/x509-examples): examples for generating and storing an RSA key pair and a self-signed x509 certificate (RFC 5980), in C and Go
 - [go-chat-server](https://github.com/San7o/go-chat-server?tab=readme-ov-file): a server and client for a minimal text-based chat in Go
 - [elixir-blockchain](https://github.com/San7o/elixir-simple-bockchain): a simple blockchain library implemented in elixir
-- [pi2-oscilloscope](https://github.com/San7o/pi2-oscilloscope.git): Raspberry Pi Pico 2 based Oscilloscope 
+- [llvm-ir-samples](https://github.com/San7o/llvm-ir-samples): Several examples of LLVM IR
+
+## Embedded projects
+
+- [povOS](https://github.com/San7o/povos):  povOS is an operating system for an IBM-compatible PC using the x86_64 architecture
+- [rpi3B-os](https://github.com/San7o/rpi3b-os): an operating system for the Rasbperry Pi 3B (private for now)
+- [lkde](https://github.com/San7o/lkde-tool): Linux Kernel Development Environment: the right tool for the day-to-day hacker
+- [hello-pico2](https://github.com/San7o/hello-pico2): collection of examples on the Raspberry Pi Pico2.
+- [pi2-oscilloscope](https://github.com/San7o/pi2-oscilloscope.git): Raspberry Pi Pico 2 based Oscilloscope
+- [hello-stm32-blue-pill](https://github.com/San7o/hello-stm32-blue-pill): example projects for the STM32 "Blue Pill" (private for now)
+- [hello-esp32](https://github.com/San7o/hello-esp32):  Example projects for the ESP32 (private for now)
+- [pi-pico2-freeRTOS]():
 
 ## Misc
 
@@ -203,6 +213,9 @@ These are the libraries that I use the most in my projects and that I find incre
 - [SFML](https://github.com/SFML/SFML) (c++17): another great multimedia library, more ideomatic for C++
 - [moviepy](https://zulko.github.io/moviepy/index.html) (Python): edit videos from python
 - [wren](https://github.com/wren-lang/wren) (C): the most elegantly implemented programming language I have ever seen
+- [pi-pico-freertos-starter](https://github.com/Wilkua/pi-pico-freertos-starter): template for running FreeRTOS on a Raspberry Pi Pico 2
+- [rp2350-bare-metal-build](https://github.com/metebalci/rp2350-bare-metal-build): bare metal programming for the Raspberry Pi Pico 2
+- [POSIX-UEFI](https://gitlab.com/bztsrc/posix-uefi): Dependency-free POSIX compatibility layer and build environment for UEFI
 
 ### Minor Contributions
 
