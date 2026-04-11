@@ -12,9 +12,14 @@ Get in contact with me:
 - check out my [blog](https://san7o.github.io/giovanni-diary/blog.html)
 - on IRC, I go by "santo_".
 
-Below you can find a list of some of my projects, you can also [click here to visualize them by category](https://san7o.github.io/repo-graph/). Here is a very high high level overview of how my projects are structured:
+Below you can find a list of some of my projects, you can also [click here to visualize them by category](https://san7o.github.io/repo-graph/).
 
-![](./projects-overview.png)
+<details>
+  <summary>Projects Overview</summary>
+  Here is a very high high level overview of how my projects are structured:
+  
+  ![](./projects-overview.png)
+</details>
 
 ## Highlights
 
@@ -101,6 +106,7 @@ Projects showcasing how to use various technologies.
 - [rpi3B-os](https://github.com/San7o/rpi3b-os): an operating system for the Rasbperry Pi 3B (private for now)
 - [lkde](https://github.com/San7o/lkde-tool): Linux Kernel Development Environment: the right tool for the day-to-day hacker
 - [hello-pico2](https://github.com/San7o/hello-pico2): collection of examples on the Raspberry Pi Pico2.
+- [liblaunchpad.h](https://github.com/San7o/liblaunchpad.h): abstraction layer over Novation's Launchpad S through ALSA, as an header-only C99 library
 - [pi2-oscilloscope](https://github.com/San7o/pi2-oscilloscope.git): Raspberry Pi Pico 2 based Oscilloscope
 - [hello-stm32-blue-pill](https://github.com/San7o/hello-stm32-blue-pill): example projects for the STM32 "Blue Pill" (private for now)
 - [hello-esp32](https://github.com/San7o/hello-esp32):  Example projects for the ESP32 (private for now)
@@ -224,6 +230,3 @@ Minor contributions all over the interweb:
 - https://github.com/ColleagueRiley/RGFW/pull/329: fix example program
 
 > “What I cannot create, I do not understand.” – Richard Feynman
-
-</details>
-
