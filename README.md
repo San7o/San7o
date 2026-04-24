@@ -15,7 +15,7 @@ Below you can find a list of some of my projects, you can also [click here to vi
 
 <details>
   <summary>Projects Overview</summary>
-  Here is a very high high level picture of how my projects are structured. The vision is to rewrite the entire software stack from scratch, focusing on developer "platforms" which are used to build applications. I belive this is necessary to develop the deep technical experteese that I want to have to meaningfully contribute to technology.
+  Here is a very high level picture of how my projects are structured. The vision is to rewrite the entire software stack from scratch, focusing on developer "platforms" which are used to build applications. I believe this is necessary to develop the deep technical experteese that I want to have to meaningfully contribute to technology.
   
   ![](./projects-overview.png)
 </details>
