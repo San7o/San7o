@@ -2,7 +2,7 @@
 
 Hi, I am Giovanni.
 
-I am particularly interested in operating systems, game engines and compilers.
+I am a software developer. I have a keen interest in operating systems, game engines and compilers.
 
 Get in contact with me:
 
