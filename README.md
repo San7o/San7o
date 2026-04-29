@@ -113,6 +113,7 @@ Projects showcasing how to use various technologies.
 
 - [haplolang](https://github.com/San7o/haplolang): a Lisp-like, s-expression based, imperative, strongly typed programming language
   - [The Design and Implementation of Haplolang](https://san7o.github.io/haplolang/): my notes after implementing the language
+- [wlevico](https://github.com/San7o/wlevico/): my own wayland compositor
 - [minipiano.c](https://github.com/San7o/minipiano.c): play the piano using sinewaves and your keyboard!
 - [cosu!](https://github.com/San7o/cosu): a rhythm game written in C, (not yet fully) compatible with osu!mania maps.
 - [snakepp](https://github.com/San7o/snakepp): simple demo of snake in C++, using SFML
