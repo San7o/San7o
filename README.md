@@ -18,6 +18,15 @@ Below you can find a list of some of my projects, you can also [click here to vi
   Here is a very high level picture of how my projects are structured. The vision is to rewrite the entire software stack from scratch, focusing on developer "platforms" which are used to build applications. I believe this is necessary to develop the deep technical experteese that I want to have to meaningfully contribute to technology.
   
   ![](./projects-overview.png)
+
+  Ideally all code should have the following characteristics:
+  
+  - cross platform support (cross-OS and cross-architecture), natively compiled
+  - well-defined and well-engineered abstractions
+  - easy to hack and extend (like plugin systems)
+  - depend only on the minimum set of core libraries
+  - releases with the same major are all backward compatible
+  
 </details>
 
 ## Highlights
