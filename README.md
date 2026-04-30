@@ -19,7 +19,7 @@ Below you can find a list of some of my projects, you can also [click here to vi
   
   ![](./projects-overview.png)
 
-  Ideally all code should have the following characteristics:
+  Ideally all code should be designed with the following characteristics:
   
   - cross platform support (cross-OS and cross-architecture), natively compiled
   - well-defined and well-engineered abstractions
