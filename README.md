@@ -24,7 +24,7 @@ Below you can find a list of some of my projects, you can also [click here to vi
   - cross platform support (cross-OS and cross-architecture), natively compiled
   - well-defined and well-engineered abstractions
   - easy to hack and extend (like plugin systems)
-  - depend only on the minimum set of core libraries
+  - depend only on a minimum set of core libraries and tools
   - releases with the same major are all backward compatible
   
 </details>
