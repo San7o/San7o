@@ -2,7 +2,7 @@
 
 Hi, I am Giovanni.
 
-I am a System Software Engineer. I have a keen interest in operating systems, game engines and compilers.
+I am a System Software Engineer. I have a keen interest in operating systems, game engines and compilers. I specialize in Linux system development (userspace and kernelspace)
 
 Get in contact with me:
 
