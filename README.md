@@ -114,6 +114,7 @@ Projects showcasing how to use various technologies.
 - [lkde](https://github.com/San7o/lkde-tool): Linux Kernel Development Environment: the right tool for the day-to-day hacker
 - [hello-pico2](https://github.com/San7o/hello-pico2): collection of examples on the Raspberry Pi Pico2.
 - [liblaunchpad.h](https://github.com/San7o/liblaunchpad.h): abstraction layer over Novation's Launchpad S through ALSA, as an header-only C99 library
+- [edu-driver](https://github.com/San7o/edu-driver):  Linux driver for the qemu edu PCI device, using DMA, ioctls and interrupts.
 - [pi2-oscilloscope](https://github.com/San7o/pi2-oscilloscope.git): Raspberry Pi Pico 2 based Oscilloscope
 - [hello-stm32-blue-pill](https://github.com/San7o/hello-stm32-blue-pill): example projects for the STM32 "Blue Pill" (private for now)
 - [hello-esp32](https://github.com/San7o/hello-esp32):  Example projects for the ESP32 (private for now)
@@ -122,6 +123,7 @@ Projects showcasing how to use various technologies.
 
 - [haplolang](https://github.com/San7o/haplolang): a Lisp-like, s-expression based, imperative, strongly typed programming language
   - [The Design and Implementation of Haplolang](https://san7o.github.io/haplolang/): my notes after implementing the language
+- [doom-drm](https://github.com/San7o/doom-drm): Doom port using the Linux DRM API.
 - [wlevico](https://github.com/San7o/wlevico/): my own wayland compositor
 - [minipiano.c](https://github.com/San7o/minipiano.c): play the piano using sinewaves and your keyboard!
 - [cosu!](https://github.com/San7o/cosu): a rhythm game written in C, (not yet fully) compatible with osu!mania maps.
