@@ -238,7 +238,8 @@ These are the libraries that I use the most in my projects and that I find incre
 
 Minor contributions all over the interweb:
 
-- https://github.com/riscv/riscv-opcodes/pull/375: Correct parse.py example
-- https://github.com/ColleagueRiley/RGFW/pull/329: fix example program
+- [[PATCH] Makefile: fix extra dash in KBUILD_CFLAGS](https://lore.kernel.org/u-boot/20260518204605.1415006-1-santigio2003@gmail.com/#t) (U-boot)
+- [Correct parse.py example](https://github.com/riscv/riscv-opcodes/pull/375) (riscv/riscv-opcodes)
+- [fix example program](https://github.com/ColleagueRiley/RGFW/pull/329) (RGFW)
 
 > “What I cannot create, I do not understand.” – Richard Feynman
