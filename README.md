@@ -8,8 +8,8 @@ Get in contact with me:
 
 - preferably via email at [giovanni.santini@proton.me](mailto:giovanni.santini@proton.me)
 - on mastodon [@santo7@mastodon.social](https://mastodon.social/@santo7)
-- check out my [blog](https://san7o.github.io/giovanni-diary/blog.html)
 - on IRC, I go by "santo_"
+- I keep technical notes in my [home-lab website](https://san7o.github.io/home-lab/)
 
 Below you can find a list of some of my projects, you can also [click here to visualize them by category](https://san7o.github.io/repo-graph/).
 
