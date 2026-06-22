@@ -43,6 +43,7 @@ Below you can find a list of some of my projects, you can also [click here to vi
 - [kivebpf](https://github.com/San7o/kivebpf): eBPF-powered file access monitoring Kubernetes operator
   - [The Kibebpf website](https://san7o.github.io/kivebpf/): more documentation about the operator
 - [Baldo scanner](https://github.com/San7o/Baldo-Scanner): malware scanner daemon for linux using a kernel module
+- [iperboot](https://github.com/San7o/iperboot/): A flexible bootloader (workd in progress)
 - [povolang](https://github.com/San7o/povolang): embeddable programming language (work in progress)
 
 ## [micro-headers](https://github.com/San7o/micro-headers)
@@ -112,12 +113,14 @@ Projects showcasing how to use various technologies.
 - [povOS](https://github.com/San7o/povos):  povOS is an operating system for an IBM-compatible PC using the x86_64 architecture
 - [rpi3B-os](https://github.com/San7o/rpi3b-os): an operating system for the Rasbperry Pi 3B
 - [lkde](https://github.com/San7o/lkde-tool): Linux Kernel Development Environment: the right tool for the day-to-day hacker
+- [iperboot](https://github.com/San7o/iperboot/): A flexible bootloader
 - [hello-pico2](https://github.com/San7o/hello-pico2): collection of examples on the Raspberry Pi Pico2.
 - [liblaunchpad.h](https://github.com/San7o/liblaunchpad.h): abstraction layer over Novation's Launchpad S through ALSA, as an header-only C99 library
 - [edu-driver](https://github.com/San7o/edu-driver):  Linux driver for the qemu edu PCI device, using DMA, ioctls and interrupts.
 - [pi2-oscilloscope](https://github.com/San7o/pi2-oscilloscope.git): Raspberry Pi Pico 2 based Oscilloscope
 - [hello-stm32-blue-pill](https://github.com/San7o/hello-stm32-blue-pill): example projects for the STM32 "Blue Pill" (private for now)
 - [hello-esp32](https://github.com/San7o/hello-esp32):  Example projects for the ESP32 (private for now)
+- [santOS](https://github.com/San7o/santOS): i386 Operating System (now replaced by [povOS](https://github.com/San7o/povos))
 
 ## Misc
 
