@@ -2,7 +2,7 @@
 
 Hi, I am Giovanni.
 
-I am a 22yo System Software Engineer. I have a keen interest in operating systems, game engines and compilers. I specialize in Linux system development (userspace and kernelspace).
+I am a 22yo System Software Engineer. I have a keen interest in firmware, bootloaders, operating systems and game engines. I live aroud Linux (both userspace and kernelspace), u-boot, coreboot, qemu, yocto &co.
 
 Get in contact with me:
 
@@ -12,22 +12,6 @@ Get in contact with me:
 - I keep technical notes in my [home-lab website](https://san7o.github.io/home-lab/)
 
 Below you can find a list of some of my projects, you can also [click here to visualize them by category](https://san7o.github.io/repo-graph/).
-
-<details>
-  <summary>Projects Overview</summary>
-  Here is a very high level picture of how my projects are structured. The vision is to rewrite the entire software stack from scratch, focusing on developer "platforms" which are used to build applications. I believe this is necessary to develop the deep technical experteese that I want to have to meaningfully contribute to technology.
-  
-  ![](./projects-overview.png)
-
-  Ideally all code should be designed with the following characteristics:
-  
-  - cross platform support (cross-OS and cross-architecture), natively compiled
-  - well-defined and well-engineered abstractions
-  - easy to hack, configure and extend (like plugin systems)
-  - depend only on a minimum set of core libraries and tools
-  - releases with the same major are all backward compatible
-  
-</details>
 
 ## Highlights
 
