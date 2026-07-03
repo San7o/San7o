@@ -27,7 +27,7 @@ Below you can find a list of some of my projects, you can also [click here to vi
 - [kivebpf](https://github.com/San7o/kivebpf): eBPF-powered file access monitoring Kubernetes operator
   - [The Kibebpf website](https://san7o.github.io/kivebpf/): more documentation about the operator
 - [Baldo scanner](https://github.com/San7o/Baldo-Scanner): malware scanner daemon for linux using a kernel module
-- [iperboot](https://github.com/San7o/iperboot/): A flexible bootloader (workd in progress)
+- [iperboot](https://github.com/San7o/iperboot/): A flexible bootloader (work in progress)
 - [povolang](https://github.com/San7o/povolang): embeddable programming language (work in progress)
 
 ## [micro-headers](https://github.com/San7o/micro-headers)
