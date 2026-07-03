@@ -2,7 +2,7 @@
 
 Hi, I am Giovanni.
 
-I am a 22yo System Software Engineer. I have a keen interest in firmware, bootloaders, operating systems and game engines. I live aroud Linux (both userspace and kernelspace), u-boot, coreboot, qemu, yocto &co.
+I am a 22yo System Software Engineer. I have a keen interest in firmware, bootloaders, operating systems and game engines. I live around Linux (both userspace and kernelspace), u-boot, coreboot, qemu, yocto &co.
 
 Get in contact with me:
 
