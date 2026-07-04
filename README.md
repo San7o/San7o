@@ -102,7 +102,7 @@ Projects showcasing how to use various technologies.
 - [hello-yocto](https://github.com/San7o/hello-yocto): example structure and usage of a yocto-based project. 
 - [liblaunchpad.h](https://github.com/San7o/liblaunchpad.h): abstraction layer over Novation's Launchpad S through ALSA, as an header-only C99 library
 - [edu-driver](https://github.com/San7o/edu-driver): Linux driver for the qemu edu PCI device, using DMA, ioctls and interrupts.
-- [tmp105-driver](https://github.com/San7o/tmp105-driver/): Driver for Texas Instruments TMP105 temperature sensor (provate for now)
+- [tmp105-driver](https://github.com/San7o/tmp105-driver/): Driver for Texas Instruments TMP105 temperature sensor (private for now)
 - [pi2-oscilloscope](https://github.com/San7o/pi2-oscilloscope.git): Raspberry Pi Pico 2 based Oscilloscope
 - [hello-stm32-blue-pill](https://github.com/San7o/hello-stm32-blue-pill): example projects for the STM32 "Blue Pill"
 - [hello-esp32](https://github.com/San7o/hello-esp32):  Example projects for the ESP32 (private for now)
