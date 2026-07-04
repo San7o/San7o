@@ -97,10 +97,11 @@ Projects showcasing how to use various technologies.
 - [povOS](https://github.com/San7o/povos):  povOS is an operating system for an IBM-compatible PC using the x86_64 architecture
 - [rpi3B-os](https://github.com/San7o/rpi3b-os): an operating system for the Rasbperry Pi 3B
 - [lkde](https://github.com/San7o/lkde-tool): Linux Kernel Development Environment: the right tool for the day-to-day hacker
-- [iperboot](https://github.com/San7o/iperboot/): A flexible bootloader
+- [iperboot](https://github.com/San7o/iperboot/): a flexible bootloader
 - [hello-pico2](https://github.com/San7o/hello-pico2): collection of examples on the Raspberry Pi Pico2.
+- [hello-yocto](https://github.com/San7o/hello-yocto): example structure and usage of a yocto-based project. 
 - [liblaunchpad.h](https://github.com/San7o/liblaunchpad.h): abstraction layer over Novation's Launchpad S through ALSA, as an header-only C99 library
-- [edu-driver](https://github.com/San7o/edu-driver):  Linux driver for the qemu edu PCI device, using DMA, ioctls and interrupts.
+- [edu-driver](https://github.com/San7o/edu-driver): Linux driver for the qemu edu PCI device, using DMA, ioctls and interrupts.
 - [pi2-oscilloscope](https://github.com/San7o/pi2-oscilloscope.git): Raspberry Pi Pico 2 based Oscilloscope
 - [hello-stm32-blue-pill](https://github.com/San7o/hello-stm32-blue-pill): example projects for the STM32 "Blue Pill"
 - [hello-esp32](https://github.com/San7o/hello-esp32):  Example projects for the ESP32 (private for now)
