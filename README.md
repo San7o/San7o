@@ -15,6 +15,7 @@ Below you can find a list of some of my projects, you can also [click here to vi
 
 ## Highlights
 
+- [povOS](https://github.com/San7o/povOS): an operating system for the PC. Supports virtual memory, multitasking and some drivers, with a custom bootloader.
 - [Brenta Engine](https://github.com/San7o/Brenta-Engine): a 3D renderer and game engine in modern C++, with a custom ECS framework [website](https://san7o.github.io/Brenta-Engine/).
   Satellite projects:
     - [oak](https://github.com/San7o/oak): a feature-rich thread-safe C++23 logger library. [website](https://san7o.github.io/oak/)
@@ -23,7 +24,6 @@ Below you can find a list of some of my projects, you can also [click here to vi
     - [valfuzz](https://github.com/San7o/valFuzz): modern testing and fuzzing library. [website](https://san7o.github.io/valFuzz/)
     - [json-please](https://github.com/San7o/json-please): json serializer-deserializer library
 - [micro-engine.h](https://github.com/San7o/micro-engine.h): micro header-only, portable game engine in C99. [website](https://san7o.github.io/micro-engine.h/)
-- [povOS](https://github.com/San7o/povOS): an operating system for the PC. Supports virtual memory, multitasking and some drivers, with a custom bootloader.
 - [kivebpf](https://github.com/San7o/kivebpf): eBPF-powered file access monitoring Kubernetes operator
   - [The Kibebpf website](https://san7o.github.io/kivebpf/): more documentation about the operator
 - [Baldo scanner](https://github.com/San7o/Baldo-Scanner): malware scanner daemon for linux using a kernel module
@@ -94,7 +94,7 @@ Projects showcasing how to use various technologies.
 
 ## Embedded projects
 
-- [povOS](https://github.com/San7o/povos):  povOS is an operating system for an IBM-compatible PC using the x86_64 architecture
+- [povOS](https://github.com/San7o/povos): an operating system for the PC
 - [rpi3B-os](https://github.com/San7o/rpi3b-os): an operating system for the Rasbperry Pi 3B
 - [lkde](https://github.com/San7o/lkde-tool): Linux Kernel Development Environment: the right tool for the day-to-day hacker
 - [iperboot](https://github.com/San7o/iperboot/): a flexible bootloader
@@ -106,6 +106,7 @@ Projects showcasing how to use various technologies.
 - [pi2-oscilloscope](https://github.com/San7o/pi2-oscilloscope.git): Raspberry Pi Pico 2 based Oscilloscope
 - [hello-stm32-blue-pill](https://github.com/San7o/hello-stm32-blue-pill): example projects for the STM32 "Blue Pill"
 - [hello-esp32](https://github.com/San7o/hello-esp32):  Example projects for the ESP32 (private for now)
+- [hello-milkv-duo-s](https://github.com/San7o/hello-milkv-duo-s): Example projects for the MilkV Duo S (private for now)
 - [santOS](https://github.com/San7o/santOS): i386 Operating System (now replaced by [povOS](https://github.com/San7o/povos))
 
 ## Misc
