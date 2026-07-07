@@ -95,19 +95,21 @@ Projects showcasing how to use various technologies.
 ## Embedded projects
 
 - [povOS](https://github.com/San7o/povos): an operating system for the PC
-- [rpi3B-os](https://github.com/San7o/rpi3b-os): an operating system for the Rasbperry Pi 3B
 - [lkde](https://github.com/San7o/lkde-tool): Linux Kernel Development Environment: the right tool for the day-to-day hacker
 - [iperboot](https://github.com/San7o/iperboot/): a flexible bootloader
-- [hello-pico2](https://github.com/San7o/hello-pico2): collection of examples on the Raspberry Pi Pico2.
 - [hello-yocto](https://github.com/San7o/hello-yocto): example structure and usage of a yocto-based project. 
 - [liblaunchpad.h](https://github.com/San7o/liblaunchpad.h): abstraction layer over Novation's Launchpad S through ALSA, as an header-only C99 library
 - [edu-driver](https://github.com/San7o/edu-driver): Linux driver for the qemu edu PCI device, using DMA, ioctls and interrupts.
 - [tmp105-driver](https://github.com/San7o/tmp105-driver/): Driver for Texas Instruments TMP105 temperature sensor (private for now)
 - [pi2-oscilloscope](https://github.com/San7o/pi2-oscilloscope.git): Raspberry Pi Pico 2 based Oscilloscope
+- [santOS](https://github.com/San7o/santOS): i386 Operating System (now replaced by [povOS](https://github.com/San7o/povos))
+
+My boards:
+- [hello-pico2](https://github.com/San7o/hello-pico2): collection of examples on the Raspberry Pi Pico2.
 - [hello-stm32-blue-pill](https://github.com/San7o/hello-stm32-blue-pill): example projects for the STM32 "Blue Pill"
 - [hello-esp32](https://github.com/San7o/hello-esp32):  Example projects for the ESP32 (private for now)
 - [hello-milkv-duo-s](https://github.com/San7o/hello-milkv-duo-s): Example projects for the MilkV Duo S (private for now)
-- [santOS](https://github.com/San7o/santOS): i386 Operating System (now replaced by [povOS](https://github.com/San7o/povos))
+- [rpi3B-os](https://github.com/San7o/rpi3b-os): an operating system for the Rasbperry Pi 3B
 
 ## Misc
 
