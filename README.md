@@ -106,9 +106,9 @@ Projects showcasing how to use various technologies.
 
 My boards:
 - [hello-pico2](https://github.com/San7o/hello-pico2): collection of examples on the Raspberry Pi Pico2.
-- [hello-stm32-blue-pill](https://github.com/San7o/hello-stm32-blue-pill): example projects for the STM32 "Blue Pill"
-- [hello-esp32](https://github.com/San7o/hello-esp32):  Example projects for the ESP32 (private for now)
-- [hello-milkv-duo-s](https://github.com/San7o/hello-milkv-duo-s): Example projects for the MilkV Duo S (private for now)
+- [hello-stm32-blue-pill](https://github.com/San7o/hello-stm32-blue-pill): quickstart and projects for the STM32 "Blue Pill"
+- [hello-esp32](https://github.com/San7o/hello-esp32): quickstart and projects for the ESP32
+- [hello-milkv-duo-s](https://github.com/San7o/hello-milkv-duo-s): quickstart and projects for the MilkV Duo S
 - [rpi3B-os](https://github.com/San7o/rpi3b-os): an operating system for the Rasbperry Pi 3B
 
 ## Misc
