@@ -74,6 +74,7 @@ Related projects:
 ## Demos
 Projects showcasing how to use various technologies.
 
+- [ebpf-labs](https://github.com/San7o/ebpf-lab): lab to experiment with eBPF programs and observability tools.
 - [fft.c](https://github.com/San7o/fft.c): implementation of Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT) in C99, with a bonus cool music visualization.
 - [ld-preload-sample](https://github.com/San7o/ld-preload-sample): sample LD_PRELOAD demonstration to replace libc functions
 - [ebpf-c-sample](https://github.com/San7o/ebpf-c-sample): sample project for an eBPF program + loader in C with libbpf and clang
