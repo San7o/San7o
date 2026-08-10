@@ -2,7 +2,7 @@
 
 Hi, I am Giovanni.
 
-I am a 22yo System Software Engineer. I have a keen interest in bootloaders, operating systems, networking and virtualization. I work close to Linux embedded systems (U-boot, IIO, netdev, buildroot, yocto...) and server infrastructure (KVM, eBPF, qemu, proxmox, Kubernetes...), with an eye on cybersecurity and HPC.
+I am a 23yo System Software Engineer. I have a keen interest in bootloaders, operating systems, networking and virtualization. I work close to Linux embedded systems (U-boot, IIO, netdev, buildroot, yocto...) and server infrastructure (KVM, eBPF, qemu, proxmox, Kubernetes...), with an eye on cybersecurity and HPC.
 
 Get in contact with me:
 
