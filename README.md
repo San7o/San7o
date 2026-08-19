@@ -10,6 +10,25 @@ Get in contact with me:
 - on mastodon [@santo7@mastodon.social](https://mastodon.social/@santo7)
 - on IRC, I go by "santo_"
 - I keep technical notes in my [home-lab website](https://san7o.github.io/home-lab/)
+<details><summary>PGP key</summary>
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEaoYRShYJKwYBBAHaRw8BAQdASF2cNrv70IaSjghyakOCQq6QwzunJCNnPfq3
+jZFttma0JUdpb3Zhbm5pIDxnaW92YW5uaS5zYW50aW5pQHByb3Rvbi5tZT6IkAQT
+FgoAOBYhBCGZ2daunGp2pSYIPE+l3gTCxygJBQJqhhFKAhsDBQsJCAcCBhUKCQgL
+AgQWAgMBAh4BAheAAAoJEE+l3gTCxygJngEA/2fd5kgz6U5qiWVXbyVZcIHJhCyU
+mxuL8FESeWo+d+rJAQCO8cbxZmKM4SYv97GYfXb18lz6tcYO/2DBMovaS3v5Bbg4
+BGqGEUoSCisGAQQBl1UBBQEBB0BhmTZJzL3HAIPP6sp/wuu9ZTHgSpArExJj6mUe
+jGXYEQMBCAeIeAQYFgoAIBYhBCGZ2daunGp2pSYIPE+l3gTCxygJBQJqhhFKAhsM
+AAoJEE+l3gTCxygJy3AA/2bp5q0jlM1xw2lIndjVQijNOHnE4foHFmvdNZ68mADM
+AP98Pxc4KnVhV3oyitEQyG0T9aEhDjqPE4HExS6lVt/6AQ==
+=xl1c
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+</details>
 
 Below you can find a list of some of my projects, you can also [click here to visualize them by category](https://san7o.github.io/repo-graph/).
 
