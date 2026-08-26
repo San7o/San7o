@@ -224,7 +224,7 @@ Custom configurations for my daily development setup and workflow.
 - [lfs](https://github.com/San7o/lfs): my Linux From Scratch distribution
 - [nixos-dotfiles](https://github.com/San7o/nixos-dotfiles): my (outdated) nixos setup
 - [obsidian-chill-theme](https://github.com/San7o/obsidian-chill-theme): my custom obsidian theme
-- [obsidian-advanced-slided-theme](https://github.com/San7o/obsidian-advanced-slides-theme-chill): custom theme for obsidian advanced slides
+- [obsidian-advanced-slides-theme](https://github.com/San7o/obsidian-advanced-slides-theme-chill): custom theme for obsidian advanced slides
 
 ### My Favourite libraries
 
