@@ -48,6 +48,7 @@ Below you can find a list of some of my projects, you can also [click here to vi
 - [Baldo scanner](https://github.com/San7o/Baldo-Scanner): malware scanner daemon for linux using a kernel module
 - [iperboot](https://github.com/San7o/iperboot/): A flexible bootloader (work in progress)
 - [povolang](https://github.com/San7o/povolang): embeddable programming language (work in progress)
+- [Design and Implementation of Linux Tracing Infrastructure](https://san7o.github.io/thesis-bachelor/): A Deep Dive from Traditional Frameworks to eBPF-Driven Observability (bachelor thesis)
 
 ## [micro-headers](https://github.com/San7o/micro-headers)
 
